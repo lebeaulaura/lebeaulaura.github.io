@@ -1,0 +1,501 @@
+When was the date of your most recent flight?,Progress,Duration (in seconds),Finished,Response ID,Where was your originating airport?,Where was your destination airport?,"Overall, were you satisfied with the pre flight experience at your originating airport?","Overall, were you satisfied with the pre flight experience at your destination airport?",Did your flight leave on time?,Did you find the seats comfortable?,Are you currently one of our rewards members?,Please enter your rewards number,Were the seats comfortable?,What type of travel were you doing?,What gender do you identify as?,What is your age?
+08/07/2022 00:00:00,100,0,True,R_e3EV1VSUMPuUBnf,New York,Orlando,Unsatisfied,Satisfied,Might or might not,Definitely yes,No,37914,Slightly uncomfortable,Business,Prefer not to say,52
+31/08/2022 00:00:00,100,0,True,R_eD39LKKXCrHfB6l,Chicago,Orlando,Satisfied,Unsatisfied,Probably yes,Probably yes,Yes,45728,Moderately comfortable,Business,Female,41
+26/10/2022 00:00:00,100,0,True,R_es4899MOgeC1mND,Dallas,Chicago,Satisfied,Satisfied,Definitely yes,Probably not,Yes,51804,Slightly comfortable,Personal,Prefer not to say,38
+20/06/2022 00:00:00,100,0,True,R_enDaJPCmljo7nuJ,Seattle,Chicago,Satisfied,Satisfied,Probably yes,Definitely yes,Yes,67291,Neither comfortable nor uncomfortable,Personal,Male,38
+16/09/2022 00:00:00,100,0,True,R_eWGfzWLpzONtUwJ,Saint Louis,New York,Satisfied,Satisfied,Definitely not,Definitely not,No,46712,Slightly comfortable,Personal,Non-binary / third gender,34
+25/05/2022 00:00:00,100,0,True,R_55Nx1TEp4vzaK7b,Los Angeles,Orlando,Satisfied,Satisfied,Probably not,Definitely not,No,54811,Slightly uncomfortable,Personal,Female,29
+09/03/2022 00:00:00,100,0,True,R_0UIfd1nsGVtX7al,Chicago,Orlando,Satisfied,Unsatisfied,Definitely yes,Might or might not,No,87264,Moderately comfortable,Business,Male,36
+27/05/2022 00:00:00,100,0,True,R_1M3fbehEK9FyjZ3,Los Angeles,Seattle,Satisfied,Unsatisfied,Might or might not,Might or might not,Yes,99163,Slightly uncomfortable,Business,Prefer not to say,52
+06/03/2022 00:00:00,100,0,True,R_5bPJgYtEtUXAJLf,Chicago,New York,Unsatisfied,Unsatisfied,Definitely not,Definitely not,Yes,26985,Moderately comfortable,Business,Male,42
+19/11/2022 00:00:00,100,0,True,R_4J8b8HlbnktWWSV,Dallas,New York,Unsatisfied,Satisfied,Might or might not,Probably not,Yes,79611,Neither comfortable nor uncomfortable,Personal,Prefer not to say,30
+17/04/2022 00:00:00,100,0,True,R_1GMvbc2Pqbc1r0N,Los Angeles,Saint Louis,Satisfied,Satisfied,Definitely not,Probably not,Yes,64659,Extremely uncomfortable,Personal,Prefer not to say,50
+20/03/2022 00:00:00,100,0,True,R_8D38GvYPxKXV2kJ,Los Angeles,New York,Unsatisfied,Satisfied,Definitely not,Probably yes,Yes,45375,Moderately uncomfortable,Business,Male,20
+12/05/2022 00:00:00,100,0,True,R_bDFgMjLtnvqxcZ7,Los Angeles,New York,Satisfied,Unsatisfied,Probably not,Might or might not,No,45417,Extremely uncomfortable,Business,Prefer not to say,36
+17/03/2022 00:00:00,100,0,True,R_25eHPk8snM9Tl8p,Denver,New York,Satisfied,Unsatisfied,Probably not,Probably not,Yes,64279,Neither comfortable nor uncomfortable,Personal,Female,25
+14/09/2022 00:00:00,100,0,True,R_d11fZBpwWGxLJCR,Orlando,Denver,Satisfied,Satisfied,Probably yes,Probably yes,No,39533,Extremely uncomfortable,Personal,Prefer not to say,32
+22/03/2022 00:00:00,100,0,True,R_dmAmGOpsEExehxj,Dallas,Saint Louis,Satisfied,Satisfied,Definitely yes,Might or might not,Yes,44527,Slightly uncomfortable,Personal,Male,26
+24/12/2022 00:00:00,100,0,True,R_554ZPWnR8rcUUwR,Denver,New York,Unsatisfied,Satisfied,Definitely yes,Probably yes,No,78714,Slightly comfortable,Personal,Female,24
+10/10/2022 00:00:00,100,0,True,R_8itIfVijfRwyaWN,Chicago,Denver,Unsatisfied,Unsatisfied,Might or might not,Probably not,No,83324,Slightly comfortable,Personal,Male,33
+23/08/2022 00:00:00,100,0,True,R_3kl0a9MTAFu57bn,Orlando,Denver,Satisfied,Satisfied,Definitely not,Definitely not,Yes,19946,Extremely uncomfortable,Business,Non-binary / third gender,23
+23/07/2022 00:00:00,100,0,True,R_eRJk7YqZ3GPNy3b,Orlando,Denver,Unsatisfied,Unsatisfied,Definitely yes,Probably not,Yes,34567,Moderately comfortable,Personal,Male,45
+31/12/2022 00:00:00,100,0,True,R_80xgbUwvGwlyj1H,New York,Dallas,Unsatisfied,Unsatisfied,Definitely yes,Probably not,Yes,55500,Moderately uncomfortable,Personal,Male,33
+12/01/2022 00:00:00,100,0,True,R_9Yp0TdhxkRSIbZz,Los Angeles,Los Angeles,Unsatisfied,Satisfied,Probably not,Might or might not,Yes,79459,Extremely uncomfortable,Personal,Non-binary / third gender,54
+07/11/2022 00:00:00,100,0,True,R_bryfm2wsG7Nnsvb,Saint Louis,Seattle,Unsatisfied,Satisfied,Definitely not,Probably not,No,35843,Extremely uncomfortable,Business,Female,49
+14/08/2022 00:00:00,100,0,True,R_9uZo6GQaQqCeKLH,Orlando,Saint Louis,Satisfied,Satisfied,Probably yes,Probably yes,Yes,11302,Moderately comfortable,Personal,Female,53
+20/07/2022 00:00:00,100,0,True,R_3QamkBSWo5ylyvj,Los Angeles,Los Angeles,Satisfied,Satisfied,Probably yes,Definitely not,No,79614,Slightly uncomfortable,Personal,Prefer not to say,39
+06/08/2022 00:00:00,100,0,True,R_ahOKcFwhhwRtMt7,New York,Seattle,Unsatisfied,Unsatisfied,Probably not,Definitely not,No,50411,Slightly comfortable,Business,Female,39
+24/10/2022 00:00:00,100,0,True,R_79UreR6XoISWx3D,Dallas,New York,Satisfied,Unsatisfied,Probably not,Probably yes,Yes,17708,Extremely comfortable,Business,Male,20
+05/12/2022 00:00:00,100,0,True,R_bsdmcdibVAX1jrT,Dallas,Los Angeles,Unsatisfied,Unsatisfied,Definitely yes,Definitely not,No,16411,Extremely uncomfortable,Personal,Female,27
+18/07/2022 00:00:00,100,0,True,R_bjYWOX2MIrEC0ND,Dallas,Seattle,Unsatisfied,Unsatisfied,Definitely yes,Probably yes,No,61530,Moderately comfortable,Business,Female,
+24/04/2022 00:00:00,100,0,True,R_71xFAtMMEXlABHD,Denver,Denver,Unsatisfied,Satisfied,Definitely yes,Probably yes,No,54452,Slightly comfortable,Personal,Female,46
+18/10/2022 00:00:00,100,0,True,R_a8XKoS8foajBs9f,Los Angeles,Dallas,Unsatisfied,Unsatisfied,Probably not,Probably yes,Yes,39401,Slightly uncomfortable,Business,Female,47
+28/05/2022 00:00:00,100,0,True,R_0fkyhoI20KksOHz,Denver,Chicago,Satisfied,Satisfied,Definitely not,Probably not,Yes,72847,Slightly comfortable,Business,Non-binary / third gender,54
+05/07/2022 00:00:00,100,0,True,R_3JZfEVr1zFpVzqR,Dallas,Saint Louis,Satisfied,Satisfied,Might or might not,Probably yes,Yes,30207,Moderately uncomfortable,Personal,Non-binary / third gender,36
+07/04/2022 00:00:00,100,0,True,R_1zROhdKq5Ei3A4B,Orlando,Denver,Unsatisfied,Unsatisfied,Definitely not,Probably yes,Yes,87885,Neither comfortable nor uncomfortable,Personal,Non-binary / third gender,38
+28/05/2022 00:00:00,100,0,True,R_5uQ0JgxXDX3Pvx3,Saint Louis,Seattle,Unsatisfied,Unsatisfied,Might or might not,Probably not,Yes,14804,Moderately uncomfortable,Personal,Male,51
+28/02/2022 00:00:00,100,0,True,R_byhCz9kX3loQN2R,New York,Chicago,Satisfied,Unsatisfied,Might or might not,Definitely yes,Yes,35078,Slightly comfortable,Personal,Non-binary / third gender,32
+07/07/2022 00:00:00,100,0,True,R_3mZ6TWq1oYXmTxr,Saint Louis,New York,Unsatisfied,Unsatisfied,Definitely not,Probably not,No,12147,Extremely comfortable,Business,Male,42
+01/05/2022 00:00:00,100,0,True,R_3l7KWyC5AD2j4bj,Chicago,Denver,Unsatisfied,Satisfied,Probably yes,Probably yes,No,84810,Slightly uncomfortable,Personal,Prefer not to say,52
+07/02/2022 00:00:00,100,0,True,R_3wwTYdNj0lsutEx,Los Angeles,Orlando,Unsatisfied,Satisfied,Definitely yes,Definitely not,Yes,95518,Extremely uncomfortable,Business,Male,44
+19/05/2022 00:00:00,100,0,True,R_552NuIGWBA69OKN,Saint Louis,Chicago,Satisfied,Satisfied,Definitely not,Probably not,Yes,24695,Extremely comfortable,Personal,Prefer not to say,39
+13/11/2022 00:00:00,100,0,True,R_3atkSWzcBYRZuCx,Orlando,Los Angeles,Unsatisfied,Unsatisfied,Probably yes,Probably yes,No,60342,Neither comfortable nor uncomfortable,Personal,Prefer not to say,24
+09/06/2022 00:00:00,100,0,True,R_2uaGcezi5OenW7P,Seattle,New York,Satisfied,Unsatisfied,Probably not,Definitely not,No,69514,Slightly uncomfortable,Personal,Non-binary / third gender,49
+06/05/2022 00:00:00,100,0,True,R_6FOLJbLMBCyeLxb,Chicago,Chicago,Satisfied,Satisfied,Might or might not,Definitely not,Yes,42569,Extremely uncomfortable,Business,Prefer not to say,19
+04/06/2022 00:00:00,100,0,True,R_3ISviHYu1VQa9bn,Denver,Denver,Unsatisfied,Unsatisfied,Definitely not,Definitely not,No,57018,Moderately uncomfortable,Personal,Prefer not to say,50
+16/09/2022 00:00:00,100,0,True,R_25i1nb8sgSEnE9v,Denver,Chicago,Satisfied,Unsatisfied,Might or might not,Probably yes,No,97182,Slightly comfortable,Business,Non-binary / third gender,24
+03/08/2022 00:00:00,100,0,True,R_24rm8edakNYdudv,Chicago,Los Angeles,Unsatisfied,Satisfied,Might or might not,Might or might not,No,90893,Slightly comfortable,Business,Female,34
+01/12/2022 00:00:00,100,0,True,R_9KTFWS7sOmJ1kpf,Orlando,Los Angeles,Satisfied,Satisfied,Probably yes,Definitely yes,Yes,60323,Slightly comfortable,Personal,Prefer not to say,32
+24/06/2022 00:00:00,100,0,True,R_eV9zNXHzFmdZN9r,Seattle,Saint Louis,Satisfied,Satisfied,Probably not,Might or might not,Yes,60326,Extremely comfortable,Personal,Prefer not to say,
+17/09/2022 00:00:00,100,0,True,R_b2x4KFzoCFtvQsB,Orlando,New York,Unsatisfied,Unsatisfied,Definitely not,Probably yes,Yes,98273,Moderately comfortable,Personal,Female,18
+29/07/2022 00:00:00,100,0,True,R_byhwPJbizYwP7tH,Dallas,Denver,Unsatisfied,Satisfied,Definitely not,Definitely yes,No,33337,Extremely uncomfortable,Personal,Non-binary / third gender,37
+28/04/2022 00:00:00,100,0,True,R_eRrXn0xoN9wEXxH,Dallas,New York,Satisfied,Unsatisfied,Definitely not,Probably yes,Yes,69448,Extremely uncomfortable,Personal,Prefer not to say,49
+22/01/2022 00:00:00,100,0,True,R_0CUISlOUo8rZJel,Los Angeles,Los Angeles,Satisfied,Satisfied,Might or might not,Probably yes,Yes,18065,Moderately uncomfortable,Business,Non-binary / third gender,22
+24/08/2022 00:00:00,100,0,True,R_ahsFS7PolTSCCQR,Denver,Orlando,Unsatisfied,Satisfied,Probably not,Definitely yes,No,69203,Slightly comfortable,Business,Non-binary / third gender,31
+08/08/2022 00:00:00,100,0,True,R_e5MFsSkU2rkVSPH,New York,Seattle,Unsatisfied,Satisfied,Probably not,Definitely not,No,86175,Moderately uncomfortable,Business,Non-binary / third gender,20
+15/09/2022 00:00:00,100,0,True,R_d4NcYBlc2cEFA8Z,Dallas,Dallas,Unsatisfied,Unsatisfied,Might or might not,Might or might not,Yes,45849,Neither comfortable nor uncomfortable,Personal,Male,52
+14/12/2022 00:00:00,100,0,True,R_eJq4a6NMl3OeFjD,Dallas,New York,Satisfied,Satisfied,Probably not,Probably yes,Yes,64366,Slightly uncomfortable,Personal,Female,43
+15/12/2022 00:00:00,100,0,True,R_6Ygd7xG3DnJxnLf,Denver,Denver,Satisfied,Unsatisfied,Might or might not,Definitely yes,No,14304,Slightly comfortable,Personal,Non-binary / third gender,27
+08/05/2022 00:00:00,100,0,True,R_byB6mgCbw8iz0qx,New York,Dallas,Unsatisfied,Unsatisfied,Definitely not,Definitely not,No,57694,Neither comfortable nor uncomfortable,Business,Non-binary / third gender,33
+14/02/2022 00:00:00,100,0,True,R_2mfZCIIjaE5m1X7,Denver,Chicago,Unsatisfied,Unsatisfied,Definitely not,Probably not,No,88072,Extremely comfortable,Personal,Male,44
+16/06/2022 00:00:00,100,0,True,R_0BxMQjI1QizlKLj,Dallas,Los Angeles,Unsatisfied,Unsatisfied,Might or might not,Might or might not,No,11672,Neither comfortable nor uncomfortable,Business,Male,43
+23/12/2022 00:00:00,100,0,True,R_2a84wuJIdiRC7nD,New York,Dallas,Satisfied,Unsatisfied,Probably not,Probably yes,Yes,65435,Slightly comfortable,Personal,Prefer not to say,40
+11/06/2022 00:00:00,100,0,True,R_4Z0UD9jhm2MWdIF,Dallas,New York,Unsatisfied,Satisfied,Probably not,Probably not,Yes,39601,Extremely uncomfortable,Business,Male,
+15/11/2022 00:00:00,100,0,True,R_2rieHS3dbBKHB9b,Orlando,Los Angeles,Unsatisfied,Satisfied,Probably not,Definitely not,No,95189,Extremely comfortable,Business,Male,26
+06/01/2022 00:00:00,100,1,True,R_b2FLcZOiVZx3QTX,Saint Louis,Saint Louis,Unsatisfied,Satisfied,Probably not,Probably not,No,56426,Extremely comfortable,Business,Female,30
+24/01/2022 00:00:00,100,0,True,R_exjma2d6GJ70i5D,Chicago,Chicago,Unsatisfied,Unsatisfied,Probably yes,Might or might not,Yes,25021,Extremely uncomfortable,Business,Non-binary / third gender,43
+03/04/2022 00:00:00,100,0,True,R_816ugafidv28U3r,Seattle,Denver,Satisfied,Satisfied,Might or might not,Probably yes,Yes,59107,Slightly uncomfortable,Business,Female,53
+09/08/2022 00:00:00,100,0,True,R_8iXqS3mKlhzmPTT,Los Angeles,Seattle,Unsatisfied,Unsatisfied,Definitely not,Probably yes,Yes,50241,Moderately uncomfortable,Business,Female,38
+01/07/2022 00:00:00,100,0,True,R_0q66lpxvTcqZq8B,Chicago,Saint Louis,Satisfied,Unsatisfied,Probably not,Probably not,Yes,16735,Extremely comfortable,Personal,Female,40
+21/03/2022 00:00:00,100,0,True,R_1zX5EM8V510Pz5H,Los Angeles,Saint Louis,Unsatisfied,Unsatisfied,Definitely not,Might or might not,No,50235,Slightly uncomfortable,Personal,Prefer not to say,42
+13/09/2022 00:00:00,100,0,True,R_54uELsLRkK6mVnf,Denver,Seattle,Unsatisfied,Unsatisfied,Might or might not,Definitely yes,Yes,62665,Slightly comfortable,Business,Non-binary / third gender,23
+10/03/2022 00:00:00,100,0,True,R_brAcE7ogZa2Wm1f,Denver,Saint Louis,Unsatisfied,Satisfied,Definitely not,Definitely yes,No,61617,Slightly comfortable,Personal,Female,54
+26/04/2022 00:00:00,100,0,True,R_9AIPGEjFScrPPmZ,New York,Saint Louis,Unsatisfied,Satisfied,Probably yes,Probably not,Yes,83002,Extremely comfortable,Personal,Male,48
+13/04/2022 00:00:00,100,0,True,R_3UAxnxubQHT8WrP,Saint Louis,Dallas,Unsatisfied,Satisfied,Definitely yes,Probably yes,Yes,78329,Moderately uncomfortable,Business,Female,22
+17/05/2022 00:00:00,100,0,True,R_39JKUbL0CLvNjUh,New York,Orlando,Satisfied,Unsatisfied,Might or might not,Probably yes,Yes,39302,Extremely uncomfortable,Business,Non-binary / third gender,39
+10/10/2022 00:00:00,100,0,True,R_6D5e6GMPV2jJfXD,Los Angeles,New York,Unsatisfied,Satisfied,Might or might not,Probably not,No,61659,Extremely comfortable,Personal,Non-binary / third gender,43
+17/12/2022 00:00:00,100,0,True,R_2nnd52xgyCSsiTr,Denver,Chicago,Satisfied,Satisfied,Definitely yes,Might or might not,No,61494,Extremely uncomfortable,Personal,Prefer not to say,26
+10/02/2022 00:00:00,100,0,True,R_3gj9LazNxggj3w1,Orlando,Denver,Unsatisfied,Unsatisfied,Definitely yes,Probably not,Yes,85411,Moderately comfortable,Personal,Female,45
+09/06/2022 00:00:00,100,0,True,R_dcFRyFUjM5ZfgHj,New York,Los Angeles,Unsatisfied,Satisfied,Probably not,Definitely yes,Yes,50452,Moderately comfortable,Business,Prefer not to say,54
+14/12/2022 00:00:00,100,0,True,R_2gTvD40OdtF0uKF,Denver,Chicago,Unsatisfied,Unsatisfied,Might or might not,Definitely yes,Yes,22461,Moderately comfortable,Personal,Non-binary / third gender,28
+16/07/2022 00:00:00,100,0,True,R_eLQRWf4heJ1nPmt,Los Angeles,Orlando,Unsatisfied,Unsatisfied,Definitely not,Might or might not,No,44423,Extremely uncomfortable,Personal,Non-binary / third gender,36
+06/03/2022 00:00:00,100,0,True,R_dmv8KyJAlB7yUkZ,Seattle,Denver,Unsatisfied,Unsatisfied,Probably not,Definitely yes,No,41026,Moderately uncomfortable,Personal,Female,30
+05/03/2022 00:00:00,100,0,True,R_721DNTTCqNT9GMB,Seattle,Saint Louis,Unsatisfied,Satisfied,Might or might not,Might or might not,Yes,88188,Slightly uncomfortable,Business,Male,23
+25/02/2022 00:00:00,100,0,True,R_2nQIN9DmyxSglGR,Denver,Seattle,Unsatisfied,Unsatisfied,Probably yes,Definitely not,No,46203,Extremely uncomfortable,Business,Non-binary / third gender,52
+18/03/2022 00:00:00,100,0,True,R_56CzeFbO72s6rPv,Orlando,Saint Louis,Satisfied,Unsatisfied,Definitely not,Definitely yes,No,52581,Neither comfortable nor uncomfortable,Personal,Non-binary / third gender,35
+16/02/2022 00:00:00,100,0,True,R_exEFlMc6JeFyW8t,Chicago,Seattle,Satisfied,Unsatisfied,Definitely yes,Probably not,Yes,27791,Neither comfortable nor uncomfortable,Business,Prefer not to say,46
+19/11/2022 00:00:00,100,0,True,R_8qYrNTbD5WgXujX,Saint Louis,Dallas,Unsatisfied,Unsatisfied,Definitely not,Definitely yes,Yes,72324,Slightly uncomfortable,Personal,Female,48
+20/04/2022 00:00:00,100,0,True,R_exEMfRcTnhOrQjz,Dallas,Denver,Satisfied,Unsatisfied,Definitely yes,Definitely yes,No,79346,Neither comfortable nor uncomfortable,Personal,Prefer not to say,35
+03/02/2022 00:00:00,100,0,True,R_bsH5CGwXw9VfdGt,Seattle,Saint Louis,Satisfied,Unsatisfied,Probably not,Might or might not,No,67047,Extremely uncomfortable,Business,Prefer not to say,52
+30/05/2022 00:00:00,100,0,True,R_bf7hwsO8kBvrYTX,Orlando,Chicago,Unsatisfied,Unsatisfied,Definitely not,Probably yes,Yes,21013,Neither comfortable nor uncomfortable,Business,Female,36
+10/01/2022 00:00:00,100,0,True,R_bD6386dXx4xVuoB,Los Angeles,New York,Satisfied,Unsatisfied,Probably not,Probably not,Yes,16963,Neither comfortable nor uncomfortable,Personal,Male,46
+04/06/2022 00:00:00,100,0,True,R_87avDmNEdfh5Ool,Denver,Dallas,Unsatisfied,Unsatisfied,Probably yes,Definitely yes,Yes,76728,Slightly comfortable,Business,Male,47
+28/05/2022 00:00:00,100,0,True,R_6xGQ73bOJypSdIV,Dallas,Chicago,Satisfied,Unsatisfied,Probably not,Probably not,Yes,62689,Moderately comfortable,Business,Prefer not to say,39
+21/05/2022 00:00:00,100,0,True,R_3W2HNmzwLyJzGcJ,Orlando,Denver,Unsatisfied,Satisfied,Might or might not,Probably not,Yes,41121,Slightly comfortable,Business,Female,41
+20/06/2022 00:00:00,100,0,True,R_0kwLhHk6CMwHL4p,Seattle,New York,Satisfied,Unsatisfied,Definitely not,Definitely yes,Yes,73225,Extremely uncomfortable,Business,Non-binary / third gender,30
+01/05/2022 00:00:00,100,0,True,R_0xJHnl2Slu0g4AJ,Los Angeles,Dallas,Unsatisfied,Satisfied,Definitely not,Definitely not,No,45499,Slightly comfortable,Business,Non-binary / third gender,44
+09/09/2022 00:00:00,100,0,True,R_77XFhpTa6pgGgaV,Saint Louis,Dallas,Unsatisfied,Satisfied,Probably yes,Probably yes,Yes,41604,Slightly uncomfortable,Business,Male,30
+30/08/2022 00:00:00,100,0,True,R_7PUqcTiaHSuqEOF,New York,Orlando,Satisfied,Satisfied,Probably not,Might or might not,Yes,39852,Extremely comfortable,Business,Female,40
+17/11/2022 00:00:00,100,0,True,R_1NyhUmz1nWgZjr7,Saint Louis,Seattle,Unsatisfied,Unsatisfied,Probably yes,Probably not,No,65453,Extremely uncomfortable,Business,Non-binary / third gender,20
+23/02/2022 00:00:00,100,0,True,R_0qsVQTIKjq4KXvT,New York,Los Angeles,Satisfied,Unsatisfied,Probably not,Might or might not,Yes,34273,Moderately uncomfortable,Business,Female,27
+01/12/2022 00:00:00,100,0,True,R_0NTID1wDCYEKssJ,Los Angeles,New York,Unsatisfied,Unsatisfied,Definitely yes,Definitely yes,No,88623,Moderately uncomfortable,Business,Female,37
+20/11/2022 00:00:00,100,0,True,R_2rBdy9T31YT1hkN,Saint Louis,New York,Satisfied,Satisfied,Definitely not,Probably not,Yes,75862,Slightly uncomfortable,Personal,Male,27
+01/07/2022 00:00:00,100,0,True,R_8dkSPoB37EOQecl,New York,New York,Satisfied,Satisfied,Definitely yes,Probably not,No,27123,Slightly comfortable,Business,Female,47
+26/12/2022 00:00:00,100,0,True,R_7X0kfLxHrVnG0Ml,Denver,Orlando,Unsatisfied,Unsatisfied,Probably yes,Might or might not,Yes,65368,Moderately comfortable,Business,Female,33
+31/01/2022 00:00:00,100,0,True,R_dhxCnF2l6rxNiDj,Seattle,Dallas,Satisfied,Satisfied,Might or might not,Probably not,Yes,91483,Moderately comfortable,Personal,Male,41
+04/08/2022 00:00:00,100,0,True,R_6SgdE4j4CvTuSRD,Saint Louis,Seattle,Satisfied,Satisfied,Might or might not,Definitely not,No,62739,Slightly uncomfortable,Business,Prefer not to say,30
+08/05/2022 00:00:00,100,0,True,R_7QKfIw5cVLSTGpT,Denver,Denver,Satisfied,Satisfied,Definitely yes,Definitely not,Yes,84491,Extremely uncomfortable,Business,Prefer not to say,39
+10/08/2022 00:00:00,100,0,True,R_0P0qETZGUSS2YuN,Chicago,Dallas,Unsatisfied,Unsatisfied,Probably yes,Probably not,Yes,13981,Slightly comfortable,Personal,Male,39
+26/05/2022 00:00:00,100,0,True,R_3JmJOSJqO1DrGCx,New York,Seattle,Unsatisfied,Satisfied,Definitely not,Probably not,No,10839,Moderately uncomfortable,Personal,Prefer not to say,53
+29/06/2022 00:00:00,100,0,True,R_40VxmpmiQdSJyS1,Seattle,Saint Louis,Satisfied,Unsatisfied,Probably not,Definitely not,No,83004,Slightly comfortable,Personal,Female,52
+17/07/2022 00:00:00,100,0,True,R_b41f0KzqPkDRbnL,Dallas,Orlando,Satisfied,Satisfied,Probably not,Probably yes,Yes,60998,Slightly comfortable,Business,Prefer not to say,39
+17/02/2022 00:00:00,100,0,True,R_9zBV3JXbOz30yj3,Seattle,Chicago,Unsatisfied,Satisfied,Probably yes,Definitely yes,Yes,32977,Slightly comfortable,Personal,Prefer not to say,46
+15/06/2022 00:00:00,100,0,True,R_6hQIxER5257Hbud,Dallas,Dallas,Satisfied,Satisfied,Might or might not,Probably not,No,24384,Slightly uncomfortable,Personal,Male,52
+12/02/2022 00:00:00,100,0,True,R_9z2YezsvWIPogjH,Saint Louis,Denver,Satisfied,Satisfied,Probably not,Definitely not,Yes,91387,Extremely comfortable,Personal,Non-binary / third gender,53
+29/05/2022 00:00:00,100,1,True,R_cOtED1nLN2FhVPL,Denver,Seattle,Unsatisfied,Satisfied,Definitely not,Definitely not,No,82101,Slightly comfortable,Business,Male,32
+16/11/2022 00:00:00,100,0,True,R_6QfOS22wmPMG7kN,Chicago,Orlando,Unsatisfied,Unsatisfied,Probably yes,Definitely not,Yes,83857,Moderately uncomfortable,Personal,Male,46
+22/02/2022 00:00:00,100,0,True,R_8Dm3W58hagtbTj7,Los Angeles,Saint Louis,Unsatisfied,Unsatisfied,Definitely not,Probably not,Yes,93522,Moderately comfortable,Business,Prefer not to say,22
+13/08/2022 00:00:00,100,0,True,R_892S4f4mb19QkW9,Los Angeles,Denver,Satisfied,Unsatisfied,Probably not,Probably yes,No,59981,Slightly uncomfortable,Business,Non-binary / third gender,37
+02/02/2022 00:00:00,100,0,True,R_81XcDW1fCUbRs21,Orlando,New York,Satisfied,Satisfied,Definitely yes,Probably not,Yes,94821,Slightly comfortable,Business,Male,36
+21/05/2022 00:00:00,100,0,True,R_dojzRQn19xBSTVb,Denver,Orlando,Satisfied,Unsatisfied,Definitely yes,Definitely yes,Yes,83937,Moderately uncomfortable,Personal,Female,39
+19/12/2022 00:00:00,100,0,True,R_eM1aO8NWnIgqZ2l,Saint Louis,Dallas,Unsatisfied,Unsatisfied,Probably not,Probably yes,No,76821,Slightly uncomfortable,Personal,Prefer not to say,51
+08/08/2022 00:00:00,100,0,True,R_ermxO4mM85Vh8Tr,Dallas,Denver,Unsatisfied,Unsatisfied,Probably yes,Might or might not,Yes,84456,Moderately comfortable,Business,Male,39
+21/10/2022 00:00:00,100,0,True,R_7R1PxCcm11RnvA9,Denver,New York,Satisfied,Satisfied,Definitely not,Might or might not,No,91408,Slightly comfortable,Business,Non-binary / third gender,32
+23/11/2022 00:00:00,100,0,True,R_6nGuvj2Q1fvVmBv,Denver,Chicago,Satisfied,Unsatisfied,Definitely not,Probably not,Yes,28848,Slightly uncomfortable,Business,Non-binary / third gender,30
+18/10/2022 00:00:00,100,0,True,R_9SuhveHKPnK8mxv,Saint Louis,Los Angeles,Satisfied,Unsatisfied,Might or might not,Probably yes,Yes,60521,Neither comfortable nor uncomfortable,Business,Male,21
+12/09/2022 00:00:00,100,0,True,R_3VqK1YM9XxSU38V,Chicago,Seattle,Unsatisfied,Unsatisfied,Definitely yes,Might or might not,Yes,65140,Extremely uncomfortable,Personal,Male,36
+08/03/2022 00:00:00,100,0,True,R_aUUcSSf8YqJof3L,New York,Denver,Unsatisfied,Satisfied,Definitely not,Definitely not,No,44786,Extremely uncomfortable,Personal,Non-binary / third gender,54
+05/07/2022 00:00:00,100,0,True,R_b7aba1uSrywTnjT,Orlando,Chicago,Unsatisfied,Unsatisfied,Might or might not,Probably not,No,51892,Neither comfortable nor uncomfortable,Business,Female,41
+14/02/2022 00:00:00,100,0,True,R_eM6SXqDJN8Gl88J,Saint Louis,Saint Louis,Unsatisfied,Satisfied,Probably not,Probably yes,No,93749,Moderately uncomfortable,Business,Non-binary / third gender,53
+19/12/2022 00:00:00,100,0,True,R_eysNXEXkzmH91v7,Chicago,Chicago,Unsatisfied,Satisfied,Definitely yes,Probably yes,No,76754,Moderately comfortable,Business,Non-binary / third gender,49
+16/07/2022 00:00:00,100,0,True,R_aeM1e2pVuN2chW5,Los Angeles,Orlando,Satisfied,Satisfied,Probably not,Definitely yes,No,55825,Neither comfortable nor uncomfortable,Business,Female,41
+25/11/2022 00:00:00,100,0,True,R_0udziZWu4pZsTdz,New York,Los Angeles,Unsatisfied,Unsatisfied,Probably yes,Probably yes,Yes,98764,Moderately uncomfortable,Personal,Female,35
+28/09/2022 00:00:00,100,0,True,R_8cAnOdQ0KzoFq0R,Denver,Orlando,Unsatisfied,Satisfied,Definitely not,Definitely not,Yes,96626,Neither comfortable nor uncomfortable,Personal,Male,42
+17/10/2022 00:00:00,100,0,True,R_efCXvAhjOD2fm3r,Saint Louis,New York,Unsatisfied,Satisfied,Definitely yes,Definitely not,No,48953,Slightly uncomfortable,Personal,Non-binary / third gender,25
+24/02/2022 00:00:00,100,0,True,R_0cZbG87GuTHHzyR,Saint Louis,Los Angeles,Satisfied,Unsatisfied,Probably not,Probably not,Yes,75591,Slightly uncomfortable,Business,Male,51
+10/11/2022 00:00:00,100,0,True,R_9FuWJJOOv4zo3pH,Dallas,Chicago,Satisfied,Unsatisfied,Might or might not,Definitely not,No,83776,Extremely comfortable,Business,Prefer not to say,49
+01/01/2022 00:00:00,100,0,True,R_9yIWxrpKJB0NVJj,Dallas,Denver,Satisfied,Satisfied,Definitely not,Definitely yes,Yes,78137,Slightly uncomfortable,Business,Male,26
+10/08/2022 00:00:00,100,0,True,R_cCQlemiHDailbCt,Los Angeles,New York,Satisfied,Satisfied,Definitely not,Definitely not,Yes,66186,Slightly uncomfortable,Business,Male,31
+10/06/2022 00:00:00,100,0,True,R_3xxnaXSQGCT8Ny5,Saint Louis,Orlando,Unsatisfied,Unsatisfied,Probably yes,Probably not,Yes,52733,Moderately uncomfortable,Personal,Male,36
+27/08/2022 00:00:00,100,0,True,R_6M4h00nfMBmScpD,Seattle,Dallas,Unsatisfied,Satisfied,Probably yes,Might or might not,No,64223,Moderately uncomfortable,Personal,Female,36
+22/04/2022 00:00:00,100,0,True,R_2l9gPCdLBE5u1jT,New York,Seattle,Unsatisfied,Satisfied,Definitely yes,Probably not,No,32242,Slightly uncomfortable,Business,Prefer not to say,32
+21/11/2022 00:00:00,100,0,True,R_9TQLzGgUiJcZTyB,Los Angeles,Orlando,Satisfied,Satisfied,Definitely not,Probably yes,Yes,88798,Extremely uncomfortable,Business,Female,49
+27/10/2022 00:00:00,100,0,True,R_3dyaNQyJmOIElKZ,Dallas,Orlando,Satisfied,Unsatisfied,Probably not,Definitely yes,No,14503,Neither comfortable nor uncomfortable,Business,Female,51
+26/08/2022 00:00:00,100,0,True,R_0wHJDY09euslIJ7,Seattle,Chicago,Unsatisfied,Unsatisfied,Might or might not,Definitely not,No,41250,Extremely uncomfortable,Personal,Prefer not to say,24
+08/09/2022 00:00:00,100,0,True,R_87FoAUG87Z0jOf3,Denver,Los Angeles,Satisfied,Satisfied,Definitely yes,Definitely yes,No,76168,Slightly comfortable,Personal,Male,38
+27/10/2022 00:00:00,100,0,True,R_6sqT61hfe7jhbx3,New York,Denver,Satisfied,Satisfied,Definitely not,Might or might not,No,54872,Slightly comfortable,Business,Male,24
+22/05/2022 00:00:00,100,0,True,R_1Oc1ZnHHZp3BY1v,Los Angeles,Denver,Satisfied,Unsatisfied,Might or might not,Might or might not,Yes,91609,Extremely uncomfortable,Business,Male,30
+26/09/2022 00:00:00,100,0,True,R_1MMgNVUp6KnCDEF,Los Angeles,Chicago,Unsatisfied,Satisfied,Might or might not,Probably not,No,43209,Slightly comfortable,Personal,Non-binary / third gender,35
+01/07/2022 00:00:00,100,0,True,R_8dKWCpDE7tKztn7,Seattle,Denver,Satisfied,Unsatisfied,Probably yes,Definitely yes,No,91221,Extremely comfortable,Personal,Non-binary / third gender,43
+31/07/2022 00:00:00,100,0,True,R_5ihpNqaOz10w1KJ,Seattle,New York,Satisfied,Unsatisfied,Probably yes,Definitely yes,Yes,38311,Neither comfortable nor uncomfortable,Personal,Non-binary / third gender,20
+03/03/2022 00:00:00,100,0,True,R_74lKZbHO1mJ45vL,New York,Chicago,Satisfied,Unsatisfied,Definitely not,Might or might not,Yes,90862,Moderately comfortable,Personal,Prefer not to say,25
+19/07/2022 00:00:00,100,0,True,R_ePcgviwJEZKntPv,Denver,Chicago,Unsatisfied,Satisfied,Definitely yes,Probably not,Yes,96943,Moderately comfortable,Personal,Female,42
+23/06/2022 00:00:00,100,0,True,R_9FRYxuSvPRA9NDD,Chicago,Denver,Satisfied,Unsatisfied,Might or might not,Definitely not,Yes,44170,Moderately comfortable,Personal,Non-binary / third gender,38
+29/10/2022 00:00:00,100,0,True,R_9QWnR0qw936uBp3,New York,Seattle,Satisfied,Unsatisfied,Probably not,Might or might not,Yes,45016,Slightly uncomfortable,Personal,Non-binary / third gender,27
+06/07/2022 00:00:00,100,0,True,R_5omLlzdF7XgajWd,Seattle,Dallas,Satisfied,Unsatisfied,Probably not,Probably yes,Yes,83393,Neither comfortable nor uncomfortable,Business,Female,49
+01/10/2022 00:00:00,100,0,True,R_9AES1wYUVSecX4h,Denver,Denver,Unsatisfied,Satisfied,Definitely yes,Definitely yes,Yes,86185,Slightly uncomfortable,Business,Non-binary / third gender,37
+06/10/2022 00:00:00,100,0,True,R_5pVEo3wFnxonprv,Chicago,New York,Satisfied,Satisfied,Probably yes,Probably not,No,57156,Neither comfortable nor uncomfortable,Personal,Female,19
+13/08/2022 00:00:00,100,0,True,R_87JYbUBJMa5xX6d,Denver,Orlando,Satisfied,Satisfied,Probably yes,Probably yes,Yes,29639,Moderately uncomfortable,Personal,Male,24
+19/05/2022 00:00:00,100,0,True,R_eCCfyIGPhRAWBIF,Saint Louis,Los Angeles,Satisfied,Satisfied,Probably yes,Definitely not,No,79958,Moderately uncomfortable,Business,Non-binary / third gender,34
+04/04/2022 00:00:00,100,0,True,R_5jUPDMEyhnelb93,Dallas,Los Angeles,Satisfied,Satisfied,Probably yes,Probably not,Yes,30740,Neither comfortable nor uncomfortable,Business,Male,20
+12/09/2022 00:00:00,100,0,True,R_9H30dX2Rp6FCUvP,Chicago,New York,Unsatisfied,Unsatisfied,Probably not,Definitely not,No,45128,Extremely comfortable,Business,Male,34
+26/12/2022 00:00:00,100,0,True,R_57GsvnnPLESX88t,Dallas,Los Angeles,Unsatisfied,Satisfied,Might or might not,Probably yes,Yes,38573,Slightly uncomfortable,Business,Non-binary / third gender,44
+20/06/2022 00:00:00,100,0,True,R_eXsHVejv60CtIQR,Chicago,Chicago,Unsatisfied,Unsatisfied,Definitely not,Definitely not,No,86783,Slightly uncomfortable,Business,Male,49
+08/11/2022 00:00:00,100,0,True,R_1B66bppICFmjEtD,Seattle,Los Angeles,Satisfied,Satisfied,Probably yes,Definitely not,Yes,63655,Neither comfortable nor uncomfortable,Business,Male,42
+09/11/2022 00:00:00,100,0,True,R_9FgzXsHxuVDS70V,New York,Chicago,Satisfied,Unsatisfied,Might or might not,Probably not,Yes,63192,Neither comfortable nor uncomfortable,Personal,Female,39
+03/03/2022 00:00:00,100,0,True,R_3lAP7bNZ6oZFWex,Chicago,Orlando,Unsatisfied,Unsatisfied,Might or might not,Probably not,Yes,67548,Extremely uncomfortable,Personal,Female,44
+20/12/2022 00:00:00,100,0,True,R_8FX0ppzr0GsXDG5,New York,Dallas,Satisfied,Satisfied,Definitely yes,Might or might not,No,46179,Extremely comfortable,Business,Female,39
+08/07/2022 00:00:00,100,0,True,R_3EIZkyQnTY0TF5j,Saint Louis,Dallas,Satisfied,Satisfied,Probably yes,Definitely yes,No,65757,Extremely comfortable,Personal,Non-binary / third gender,27
+22/04/2022 00:00:00,100,0,True,R_9MLquIJSH7rAf5j,Denver,Los Angeles,Unsatisfied,Unsatisfied,Definitely yes,Definitely not,No,33429,Moderately comfortable,Business,Non-binary / third gender,19
+15/10/2022 00:00:00,100,0,True,R_0DLvw7TRd9Wb205,New York,Chicago,Satisfied,Satisfied,Definitely not,Might or might not,Yes,42908,Extremely comfortable,Personal,Prefer not to say,31
+28/07/2022 00:00:00,100,0,True,R_eam4KZ7sp6tcNSJ,Seattle,Denver,Satisfied,Satisfied,Probably not,Definitely not,No,89481,Slightly comfortable,Business,Male,42
+27/02/2022 00:00:00,100,0,True,R_5C2xP3Khh3nhLVz,Orlando,Dallas,Unsatisfied,Unsatisfied,Might or might not,Probably not,Yes,80830,Neither comfortable nor uncomfortable,Personal,Male,27
+04/02/2022 00:00:00,100,0,True,R_cVlj9JMznkcZnNz,Chicago,New York,Unsatisfied,Unsatisfied,Probably not,Definitely not,Yes,62864,Slightly comfortable,Personal,Non-binary / third gender,20
+31/07/2022 00:00:00,100,0,True,R_0PqP0Z10xDOWGHP,Dallas,Orlando,Satisfied,Unsatisfied,Definitely not,Might or might not,No,54511,Slightly comfortable,Personal,Female,42
+01/08/2022 00:00:00,100,0,True,R_bDvLzVTsCtZdPEN,Dallas,Saint Louis,Satisfied,Unsatisfied,Probably not,Definitely yes,No,80341,Extremely comfortable,Business,Female,39
+04/08/2022 00:00:00,100,0,True,R_blRRq7KCoKFqbQN,Orlando,Los Angeles,Satisfied,Satisfied,Definitely not,Definitely yes,No,69672,Extremely comfortable,Personal,Male,46
+09/08/2022 00:00:00,100,0,True,R_8fiKTw50xe70q2x,Orlando,Saint Louis,Satisfied,Unsatisfied,Definitely yes,Probably not,Yes,91723,Slightly uncomfortable,Personal,Male,50
+08/03/2022 00:00:00,100,0,True,R_eXKcpVrno8T3VOt,Seattle,Saint Louis,Unsatisfied,Satisfied,Might or might not,Probably yes,Yes,27760,Slightly uncomfortable,Personal,Prefer not to say,49
+12/02/2022 00:00:00,100,0,True,R_8bO85oghqhL0uUt,Denver,Orlando,Unsatisfied,Unsatisfied,Probably not,Definitely not,Yes,81712,Neither comfortable nor uncomfortable,Business,Male,22
+29/12/2022 00:00:00,100,0,True,R_e4hW2XAv4ROuQ4t,Los Angeles,Orlando,Satisfied,Satisfied,Definitely not,Probably not,No,37887,Extremely uncomfortable,Business,Prefer not to say,48
+11/04/2022 00:00:00,100,0,True,R_4TuV1ZlVsY5ZJfT,Dallas,Los Angeles,Unsatisfied,Satisfied,Probably not,Definitely yes,Yes,35792,Moderately uncomfortable,Personal,Male,23
+19/07/2022 00:00:00,100,0,True,R_6xIzSBtfPZbZXrn,Dallas,Chicago,Satisfied,Unsatisfied,Probably yes,Probably not,No,20210,Moderately uncomfortable,Personal,Prefer not to say,34
+27/01/2022 00:00:00,100,0,True,R_cDeIx3VNX7yC1j7,Dallas,Chicago,Satisfied,Satisfied,Might or might not,Definitely not,No,19349,Slightly comfortable,Business,Female,50
+05/04/2022 00:00:00,100,0,True,R_79etF8YCAC0oKfr,New York,Seattle,Satisfied,Unsatisfied,Might or might not,Might or might not,Yes,53287,Extremely comfortable,Business,Prefer not to say,44
+02/03/2022 00:00:00,100,0,True,R_eQCpuQpMiXO29Q9,Saint Louis,Saint Louis,Satisfied,Unsatisfied,Probably not,Might or might not,Yes,36793,Moderately comfortable,Personal,Prefer not to say,22
+12/08/2022 00:00:00,100,0,True,R_0v0BLftSL3oeHZj,Seattle,Saint Louis,Unsatisfied,Unsatisfied,Definitely not,Definitely not,No,87627,Moderately comfortable,Business,Prefer not to say,24
+29/04/2022 00:00:00,100,0,True,R_2rbZzmSd49gqpVP,Orlando,New York,Unsatisfied,Satisfied,Might or might not,Probably yes,No,15634,Extremely comfortable,Business,Male,46
+09/04/2022 00:00:00,100,0,True,R_6Gsxep77xKAEiMd,New York,Dallas,Unsatisfied,Unsatisfied,Might or might not,Probably not,Yes,58405,Moderately comfortable,Personal,Male,35
+03/03/2022 00:00:00,100,0,True,R_a4xB6Xvpd9Soha5,Seattle,New York,Unsatisfied,Unsatisfied,Definitely not,Probably yes,Yes,82197,Neither comfortable nor uncomfortable,Business,Female,49
+21/11/2022 00:00:00,100,0,True,R_6QlxSvtorUUA8nz,Orlando,Dallas,Satisfied,Unsatisfied,Might or might not,Probably not,No,14324,Neither comfortable nor uncomfortable,Business,Prefer not to say,47
+23/11/2022 00:00:00,100,0,True,R_02hZj0EvQz0mm8Z,Saint Louis,Chicago,Unsatisfied,Satisfied,Probably yes,Definitely not,No,87827,Moderately comfortable,Personal,Non-binary / third gender,44
+24/03/2022 00:00:00,100,0,True,R_eyMQBQav3D7qHlP,Orlando,Saint Louis,Unsatisfied,Unsatisfied,Definitely not,Probably not,No,84547,Slightly comfortable,Business,Male,26
+19/04/2022 00:00:00,100,0,True,R_7WnyZDZA2M7aOY5,Chicago,Saint Louis,Satisfied,Satisfied,Probably not,Might or might not,Yes,76369,Slightly comfortable,Personal,Prefer not to say,35
+02/02/2022 00:00:00,100,0,True,R_57KikVqWBkjLq8B,Saint Louis,New York,Satisfied,Unsatisfied,Definitely yes,Definitely not,No,88505,Slightly comfortable,Personal,Prefer not to say,49
+22/04/2022 00:00:00,100,0,True,R_4ORiD8Mg5JL7fGR,Orlando,Los Angeles,Unsatisfied,Satisfied,Probably yes,Definitely not,No,34650,Slightly uncomfortable,Personal,Prefer not to say,30
+18/07/2022 00:00:00,100,0,True,R_2fq4BNZcz3DwLqt,Saint Louis,Los Angeles,Unsatisfied,Unsatisfied,Definitely not,Might or might not,Yes,69875,Extremely comfortable,Personal,Prefer not to say,24
+16/08/2022 00:00:00,100,0,True,R_cTkNZH4otEmvKYd,Los Angeles,New York,Satisfied,Satisfied,Might or might not,Probably not,No,12913,Moderately uncomfortable,Business,Female,26
+03/03/2022 00:00:00,100,0,True,R_0ffWYdXGBGRQh8h,Denver,Orlando,Satisfied,Unsatisfied,Probably yes,Probably yes,No,10210,Moderately comfortable,Personal,Prefer not to say,43
+28/07/2022 00:00:00,100,0,True,R_ekONiSdQl9fJQix,Dallas,Chicago,Satisfied,Satisfied,Definitely not,Definitely yes,Yes,42913,Moderately uncomfortable,Business,Female,49
+16/04/2022 00:00:00,100,0,True,R_1TwKvG4zg8bV4ep,Chicago,Orlando,Unsatisfied,Unsatisfied,Definitely not,Probably not,Yes,14530,Slightly comfortable,Business,Female,34
+13/02/2022 00:00:00,100,0,True,R_9TVb9T6cDSaUIGV,Los Angeles,New York,Satisfied,Unsatisfied,Might or might not,Probably yes,Yes,16690,Moderately uncomfortable,Business,Male,19
+12/12/2022 00:00:00,100,0,True,R_bHMGeV6d4Gr4JPn,Chicago,Saint Louis,Unsatisfied,Unsatisfied,Probably yes,Definitely not,No,28964,Extremely uncomfortable,Business,Non-binary / third gender,45
+18/04/2022 00:00:00,100,0,True,R_8DiIWOYuAtkzuAZ,Saint Louis,Saint Louis,Unsatisfied,Satisfied,Definitely yes,Probably not,Yes,32424,Slightly comfortable,Business,Non-binary / third gender,40
+29/07/2022 00:00:00,100,0,True,R_2aEndG1dwvYwARL,Los Angeles,New York,Satisfied,Satisfied,Definitely yes,Definitely not,Yes,65710,Extremely comfortable,Business,Female,25
+24/01/2022 00:00:00,100,0,True,R_38I4vRNuqQ4192t,Denver,Chicago,Unsatisfied,Unsatisfied,Might or might not,Might or might not,Yes,56271,Moderately uncomfortable,Personal,Male,38
+13/04/2022 00:00:00,100,0,True,R_br6FI0eUmjaii69,Chicago,Denver,Unsatisfied,Satisfied,Definitely not,Probably not,No,19569,Extremely comfortable,Business,Male,53
+14/07/2022 00:00:00,100,0,True,R_daK27NJIbjD7w7H,Los Angeles,Saint Louis,Unsatisfied,Satisfied,Definitely yes,Definitely yes,No,37221,Moderately uncomfortable,Business,Non-binary / third gender,53
+12/11/2022 00:00:00,100,0,True,R_1G5QpbPp1udoefb,Denver,New York,Satisfied,Unsatisfied,Might or might not,Probably yes,No,73180,Extremely uncomfortable,Business,Female,24
+27/12/2022 00:00:00,100,0,True,R_2nIQa7ejzT3xiFT,Denver,Saint Louis,Satisfied,Unsatisfied,Definitely yes,Probably not,Yes,19170,Extremely uncomfortable,Business,Male,38
+17/12/2022 00:00:00,100,0,True,R_a5ExHKlPgt3lbKZ,Denver,Los Angeles,Unsatisfied,Unsatisfied,Probably yes,Definitely yes,No,80420,Slightly comfortable,Business,Male,
+27/08/2022 00:00:00,100,0,True,R_0HaxnLzasKqcHs1,Saint Louis,Seattle,Satisfied,Unsatisfied,Probably not,Probably yes,No,98607,Extremely comfortable,Personal,Prefer not to say,39
+23/08/2022 00:00:00,100,0,True,R_6lEKiAl1gPfjIIB,Seattle,New York,Unsatisfied,Unsatisfied,Definitely not,Probably not,Yes,10765,Neither comfortable nor uncomfortable,Personal,Prefer not to say,21
+16/08/2022 00:00:00,100,0,True,R_0DMtORs4yPOCC9v,Dallas,Dallas,Satisfied,Unsatisfied,Definitely yes,Definitely yes,Yes,54362,Moderately comfortable,Business,Male,31
+28/07/2022 00:00:00,100,0,True,R_86Tntz9V2Yy2wIZ,New York,Orlando,Unsatisfied,Satisfied,Definitely not,Probably yes,No,17066,Slightly uncomfortable,Business,Prefer not to say,38
+16/12/2022 00:00:00,100,0,True,R_d6byxOsGjH6ZZd3,Denver,New York,Unsatisfied,Satisfied,Definitely yes,Definitely not,No,12769,Extremely uncomfortable,Business,Prefer not to say,19
+24/08/2022 00:00:00,100,0,True,R_3xDaEaRKpttcmr3,New York,Dallas,Satisfied,Unsatisfied,Definitely yes,Might or might not,No,57429,Slightly comfortable,Personal,Prefer not to say,21
+26/03/2022 00:00:00,100,0,True,R_9HswHgGMaCcoxff,Orlando,Los Angeles,Unsatisfied,Satisfied,Probably not,Probably yes,No,77116,Extremely uncomfortable,Personal,Male,53
+12/03/2022 00:00:00,100,0,True,R_5q0qg9wGXM5L2KN,Seattle,Denver,Satisfied,Unsatisfied,Definitely yes,Might or might not,Yes,76790,Moderately comfortable,Personal,Male,46
+30/06/2022 00:00:00,100,0,True,R_bIpWTpGbFOtH1Nr,New York,Dallas,Unsatisfied,Satisfied,Might or might not,Probably yes,No,58362,Extremely comfortable,Business,Prefer not to say,29
+11/01/2022 00:00:00,100,0,True,R_6JdfK2pa4ufWu8J,Saint Louis,Orlando,Unsatisfied,Satisfied,Definitely yes,Probably not,Yes,95045,Extremely uncomfortable,Business,Female,44
+07/09/2022 00:00:00,100,0,True,R_3jDxddTfKWhCBMx,New York,Dallas,Satisfied,Satisfied,Might or might not,Might or might not,Yes,56675,Neither comfortable nor uncomfortable,Personal,Non-binary / third gender,29
+31/07/2022 00:00:00,100,0,True,R_29usHFZ0DJQiNut,Denver,Los Angeles,Unsatisfied,Satisfied,Probably not,Probably yes,No,23810,Slightly uncomfortable,Personal,Male,31
+13/01/2022 00:00:00,100,0,True,R_1RZpAImKaEjZ3tr,Seattle,Dallas,Satisfied,Satisfied,Probably not,Definitely not,Yes,77163,Slightly uncomfortable,Business,Non-binary / third gender,51
+30/05/2022 00:00:00,100,0,True,R_6nkydCVAH0mNHQp,Saint Louis,Denver,Unsatisfied,Satisfied,Probably not,Probably not,No,95846,Extremely comfortable,Personal,Male,27
+17/05/2022 00:00:00,100,0,True,R_0lGope24XZh747X,Orlando,New York,Satisfied,Unsatisfied,Probably yes,Definitely yes,Yes,78039,Extremely comfortable,Business,Prefer not to say,33
+02/01/2022 00:00:00,100,0,True,R_a5Hi9lhzTsN90mp,Seattle,Chicago,Unsatisfied,Satisfied,Definitely yes,Definitely not,Yes,89772,Moderately uncomfortable,Personal,Non-binary / third gender,44
+17/06/2022 00:00:00,100,0,True,R_1GDMGNnsfQKlCst,Orlando,Denver,Satisfied,Satisfied,Probably not,Probably not,No,33368,Moderately uncomfortable,Business,Male,50
+23/05/2022 00:00:00,100,0,True,R_8JmTAnxqG99IXad,New York,Chicago,Satisfied,Unsatisfied,Definitely not,Probably not,Yes,25109,Moderately uncomfortable,Personal,Prefer not to say,22
+23/12/2022 00:00:00,100,0,True,R_7NA1u3yGd5vFj1z,Seattle,Saint Louis,Unsatisfied,Unsatisfied,Probably not,Probably not,No,87558,Slightly uncomfortable,Business,Female,26
+25/02/2022 00:00:00,100,0,True,R_897UnkHBvTSKyJT,Saint Louis,Denver,Satisfied,Unsatisfied,Definitely yes,Might or might not,Yes,91195,Moderately comfortable,Personal,Male,29
+30/07/2022 00:00:00,100,0,True,R_eY85iyAd4jxdPP7,Saint Louis,Denver,Satisfied,Satisfied,Definitely not,Probably yes,No,73522,Neither comfortable nor uncomfortable,Business,Prefer not to say,30
+11/03/2022 00:00:00,100,0,True,R_bQoiYyGkjhyRGpD,Chicago,Saint Louis,Unsatisfied,Unsatisfied,Probably not,Probably yes,No,43693,Extremely uncomfortable,Business,Prefer not to say,54
+20/09/2022 00:00:00,100,0,True,R_9Hp70T0bu1UYfxX,Los Angeles,Los Angeles,Unsatisfied,Unsatisfied,Might or might not,Definitely not,Yes,99271,Moderately uncomfortable,Business,Female,47
+15/07/2022 00:00:00,100,0,True,R_5sPM1S23g60P6E5,Seattle,Chicago,Satisfied,Satisfied,Definitely not,Definitely yes,Yes,87541,Moderately comfortable,Personal,Non-binary / third gender,24
+16/03/2022 00:00:00,100,0,True,R_6AxX00lIIJ91HTf,Los Angeles,Orlando,Unsatisfied,Satisfied,Might or might not,Might or might not,No,25867,Slightly comfortable,Personal,Non-binary / third gender,52
+15/11/2022 00:00:00,100,0,True,R_0ocptK5eJkwmUND,Denver,Dallas,Satisfied,Unsatisfied,Probably not,Definitely yes,Yes,34060,Neither comfortable nor uncomfortable,Business,Prefer not to say,22
+14/11/2022 00:00:00,100,0,True,R_9RdXureyIxpw4yV,Los Angeles,New York,Satisfied,Satisfied,Might or might not,Definitely not,No,16943,Slightly comfortable,Personal,Female,44
+05/11/2022 00:00:00,100,0,True,R_8jqgoDsjNqkFMUJ,Seattle,Los Angeles,Unsatisfied,Satisfied,Definitely yes,Probably yes,No,78206,Slightly uncomfortable,Personal,Non-binary / third gender,25
+24/12/2022 00:00:00,100,0,True,R_9QWhvPpKRB701IV,Seattle,New York,Unsatisfied,Satisfied,Probably yes,Probably not,No,51027,Slightly uncomfortable,Business,Male,28
+18/04/2022 00:00:00,100,0,True,R_1YTl5TR8UpIOrit,Orlando,Chicago,Satisfied,Satisfied,Definitely yes,Probably not,No,80050,Slightly comfortable,Business,Male,24
+08/04/2022 00:00:00,100,0,True,R_9YxBWxkicpYRRlj,Chicago,Orlando,Satisfied,Unsatisfied,Definitely not,Might or might not,Yes,86278,Extremely comfortable,Business,Non-binary / third gender,20
+27/03/2022 00:00:00,100,0,True,R_8CfblrGi0WJykK1,New York,Chicago,Satisfied,Satisfied,Probably yes,Probably not,Yes,58150,Slightly uncomfortable,Personal,Male,19
+30/09/2022 00:00:00,100,0,True,R_4Mwow6ndaqeQnYh,Los Angeles,Chicago,Satisfied,Satisfied,Probably not,Definitely not,Yes,76315,Moderately comfortable,Business,Prefer not to say,53
+26/12/2022 00:00:00,100,1,True,R_7VCTJOQslflpJGJ,New York,Chicago,Unsatisfied,Unsatisfied,Definitely not,Definitely not,No,87818,Neither comfortable nor uncomfortable,Personal,Female,47
+06/09/2022 00:00:00,100,0,True,R_eamgK8wpv6g2fOJ,Chicago,Dallas,Unsatisfied,Satisfied,Definitely not,Probably not,Yes,97205,Neither comfortable nor uncomfortable,Personal,Non-binary / third gender,18
+30/07/2022 00:00:00,100,0,True,R_5zhsY27KcrDqx0N,Chicago,Seattle,Unsatisfied,Unsatisfied,Might or might not,Definitely not,No,28233,Moderately comfortable,Personal,Male,40
+10/06/2022 00:00:00,100,0,True,R_1RhMa6ncBA36xff,Chicago,New York,Unsatisfied,Satisfied,Might or might not,Probably not,No,47422,Extremely uncomfortable,Personal,Male,37
+16/09/2022 00:00:00,100,0,True,R_6yrAPVNTaOLSBi5,Los Angeles,Saint Louis,Satisfied,Unsatisfied,Might or might not,Might or might not,Yes,14777,Moderately uncomfortable,Business,Female,22
+20/02/2022 00:00:00,100,0,True,R_9H615jevFCcVpLT,Saint Louis,Seattle,Unsatisfied,Unsatisfied,Probably yes,Probably yes,No,77796,Moderately uncomfortable,Personal,Female,28
+14/06/2022 00:00:00,100,0,True,R_3lPTXKHBEHvlFVr,Orlando,Los Angeles,Satisfied,Unsatisfied,Definitely not,Definitely not,Yes,65837,Slightly comfortable,Personal,Female,18
+30/05/2022 00:00:00,100,0,True,R_3vMaiI9IwbdKSS9,Saint Louis,Chicago,Unsatisfied,Unsatisfied,Might or might not,Probably not,Yes,82948,Moderately uncomfortable,Personal,Female,29
+10/11/2022 00:00:00,100,0,True,R_eRpTU6HoYL6049T,Orlando,New York,Unsatisfied,Unsatisfied,Definitely yes,Probably yes,Yes,88421,Moderately comfortable,Personal,Male,34
+12/04/2022 00:00:00,100,0,True,R_2t787lu0jJxxEtD,New York,Los Angeles,Unsatisfied,Satisfied,Definitely not,Might or might not,Yes,61871,Slightly uncomfortable,Business,Non-binary / third gender,18
+31/01/2022 00:00:00,100,0,True,R_bpI5vLXjoGZkX6B,Dallas,Chicago,Unsatisfied,Unsatisfied,Probably yes,Probably yes,No,72297,Slightly comfortable,Business,Prefer not to say,42
+24/07/2022 00:00:00,100,0,True,R_5huUb6GBI3pyIUl,Orlando,New York,Unsatisfied,Satisfied,Definitely not,Probably not,No,49850,Extremely uncomfortable,Business,Female,44
+11/01/2022 00:00:00,100,0,True,R_1Yo2FQ1vVwWA4Qd,Dallas,New York,Unsatisfied,Unsatisfied,Probably yes,Probably yes,Yes,90083,Slightly comfortable,Personal,Non-binary / third gender,33
+22/04/2022 00:00:00,100,0,True,R_6fdiAkPKj47u8S1,Orlando,Saint Louis,Unsatisfied,Unsatisfied,Definitely yes,Definitely yes,Yes,93795,Extremely comfortable,Business,Prefer not to say,47
+11/02/2022 00:00:00,100,1,True,R_5pcgUgDBKf3LeZv,Dallas,Los Angeles,Satisfied,Satisfied,Definitely yes,Might or might not,No,44517,Extremely comfortable,Personal,Prefer not to say,28
+19/06/2022 00:00:00,100,0,True,R_bNoiIubJ1b161b7,Saint Louis,Chicago,Unsatisfied,Unsatisfied,Might or might not,Definitely not,No,99783,Extremely comfortable,Business,Non-binary / third gender,51
+20/10/2022 00:00:00,100,0,True,R_4TUzhM59j0ukHIx,Orlando,Dallas,Unsatisfied,Unsatisfied,Probably not,Definitely yes,No,90061,Neither comfortable nor uncomfortable,Personal,Prefer not to say,27
+28/08/2022 00:00:00,100,0,True,R_0DL281CSQc8GFnf,Orlando,Los Angeles,Unsatisfied,Satisfied,Might or might not,Probably yes,Yes,48350,Neither comfortable nor uncomfortable,Business,Prefer not to say,33
+26/05/2022 00:00:00,100,0,True,R_ekvnWfcHJs3ZIQB,Dallas,Los Angeles,Satisfied,Unsatisfied,Definitely not,Definitely not,No,87653,Slightly comfortable,Personal,Female,35
+09/05/2022 00:00:00,100,0,True,R_aacH3L4RQpZjQ2h,Dallas,Denver,Satisfied,Satisfied,Might or might not,Probably yes,Yes,72789,Extremely uncomfortable,Business,Female,19
+20/03/2022 00:00:00,100,0,True,R_d0bpTS5w3iFOC7H,Saint Louis,Orlando,Unsatisfied,Unsatisfied,Might or might not,Definitely yes,Yes,90456,Extremely uncomfortable,Personal,Male,51
+09/03/2022 00:00:00,100,0,True,R_dbXZvrh8Eb9A7bv,Denver,Chicago,Unsatisfied,Unsatisfied,Probably yes,Definitely not,No,89001,Slightly uncomfortable,Business,Prefer not to say,39
+02/07/2022 00:00:00,100,0,True,R_5vtJuepyNhdeoFD,Saint Louis,New York,Unsatisfied,Satisfied,Probably not,Probably yes,Yes,44212,Extremely comfortable,Business,Non-binary / third gender,50
+19/10/2022 00:00:00,100,0,True,R_1XNRFhhTyW3stuJ,Denver,Los Angeles,Satisfied,Unsatisfied,Probably not,Probably not,No,86274,Slightly uncomfortable,Personal,Male,54
+06/10/2022 00:00:00,100,0,True,R_80774My7KELvuzb,Dallas,New York,Unsatisfied,Satisfied,Definitely not,Might or might not,Yes,60510,Moderately uncomfortable,Business,Non-binary / third gender,28
+06/07/2022 00:00:00,100,0,True,R_7WlogMz6Jcpho3j,Denver,Seattle,Satisfied,Satisfied,Definitely not,Definitely yes,No,78597,Extremely uncomfortable,Personal,Non-binary / third gender,
+19/08/2022 00:00:00,100,0,True,R_5aTJpSrjwCXNoQl,Seattle,Saint Louis,Satisfied,Unsatisfied,Definitely yes,Definitely yes,No,56632,Slightly comfortable,Personal,Female,54
+22/06/2022 00:00:00,100,0,True,R_danSkbQoWTHbScZ,Dallas,Chicago,Satisfied,Satisfied,Definitely yes,Probably yes,No,12847,Slightly comfortable,Personal,Prefer not to say,18
+17/01/2022 00:00:00,100,0,True,R_bKlBNtsioL3PTi5,Dallas,Denver,Unsatisfied,Satisfied,Definitely yes,Might or might not,No,18882,Slightly comfortable,Business,Male,18
+27/08/2022 00:00:00,100,0,True,R_6g2l8CbYf44xUvr,Los Angeles,Chicago,Satisfied,Unsatisfied,Probably yes,Probably not,No,11504,Slightly uncomfortable,Personal,Prefer not to say,40
+05/07/2022 00:00:00,100,0,True,R_ellnkaLufRP55jv,New York,Los Angeles,Unsatisfied,Satisfied,Probably not,Probably not,No,48167,Slightly uncomfortable,Business,Male,49
+28/08/2022 00:00:00,100,0,True,R_4ZvDkvOb4YdAEaV,Denver,Chicago,Satisfied,Satisfied,Probably yes,Definitely not,No,88985,Extremely uncomfortable,Business,Non-binary / third gender,23
+24/07/2022 00:00:00,100,0,True,R_6KHZCzuCZLtXphr,New York,Seattle,Satisfied,Satisfied,Definitely yes,Definitely yes,Yes,81391,Neither comfortable nor uncomfortable,Business,Female,20
+15/11/2022 00:00:00,100,0,True,R_eaKUfwZXvxAsVY9,Los Angeles,Orlando,Unsatisfied,Unsatisfied,Definitely not,Probably not,Yes,39768,Neither comfortable nor uncomfortable,Personal,Non-binary / third gender,53
+03/05/2022 00:00:00,100,0,True,R_b95Em8SwKzSTa4d,Los Angeles,Los Angeles,Unsatisfied,Unsatisfied,Might or might not,Definitely yes,No,79644,Neither comfortable nor uncomfortable,Personal,Male,45
+31/05/2022 00:00:00,100,0,True,R_1Iav7OG5vp481wh,Chicago,Los Angeles,Unsatisfied,Satisfied,Probably yes,Probably yes,Yes,92833,Extremely comfortable,Business,Prefer not to say,41
+28/06/2022 00:00:00,100,0,True,R_5i0mglon1cIUENT,Denver,Denver,Unsatisfied,Unsatisfied,Definitely yes,Definitely yes,Yes,66879,Slightly uncomfortable,Personal,Prefer not to say,45
+14/05/2022 00:00:00,100,0,True,R_9me5xhtv22Olj1P,Denver,Chicago,Unsatisfied,Satisfied,Probably not,Probably not,Yes,39835,Extremely comfortable,Personal,Female,49
+02/08/2022 00:00:00,100,0,True,R_3KQ7qEG0IQlKNZb,Dallas,Seattle,Unsatisfied,Satisfied,Probably yes,Probably yes,No,95430,Moderately uncomfortable,Business,Prefer not to say,37
+02/06/2022 00:00:00,100,0,True,R_9RK3l4X4ERCMp9z,New York,New York,Satisfied,Unsatisfied,Definitely yes,Probably not,No,88605,Extremely uncomfortable,Personal,Non-binary / third gender,47
+16/09/2022 00:00:00,100,0,True,R_4IUIoqC0xHHEwO9,Los Angeles,New York,Unsatisfied,Unsatisfied,Probably yes,Definitely yes,Yes,93705,Extremely uncomfortable,Personal,Female,20
+31/03/2022 00:00:00,100,0,True,R_7UJdszs1w3xoqpf,Dallas,Denver,Unsatisfied,Satisfied,Probably yes,Probably not,No,39390,Neither comfortable nor uncomfortable,Business,Male,27
+19/09/2022 00:00:00,100,0,True,R_4ZV8FNlsXo1Zqrr,Denver,New York,Unsatisfied,Satisfied,Definitely yes,Probably not,Yes,99511,Extremely comfortable,Personal,Female,44
+31/07/2022 00:00:00,100,0,True,R_eWZIZI9Qn1oFQ9v,Seattle,Denver,Unsatisfied,Unsatisfied,Definitely yes,Probably yes,Yes,74778,Slightly comfortable,Business,Non-binary / third gender,31
+15/06/2022 00:00:00,100,0,True,R_6PFbCvelsbGiKRT,Los Angeles,Denver,Unsatisfied,Unsatisfied,Probably yes,Might or might not,No,55409,Neither comfortable nor uncomfortable,Business,Male,20
+30/06/2022 00:00:00,100,0,True,R_2icR1e9G9PjRS73,Dallas,Orlando,Satisfied,Satisfied,Probably yes,Probably yes,No,79923,Moderately comfortable,Business,Non-binary / third gender,41
+18/05/2022 00:00:00,100,0,True,R_1Xmj9NewERxifZj,Seattle,Saint Louis,Unsatisfied,Unsatisfied,Probably yes,Probably not,No,31755,Extremely comfortable,Personal,Female,51
+13/12/2022 00:00:00,100,0,True,R_3yHyApdbokPST2t,Saint Louis,New York,Unsatisfied,Satisfied,Definitely not,Might or might not,Yes,59494,Slightly uncomfortable,Business,Prefer not to say,31
+20/12/2022 00:00:00,100,0,True,R_aWQkbmlwTp13cpv,Denver,Saint Louis,Satisfied,Unsatisfied,Definitely yes,Definitely not,No,78281,Moderately comfortable,Personal,Male,20
+28/11/2022 00:00:00,100,0,True,R_9HqKLctwkg9Gxpz,Saint Louis,Chicago,Satisfied,Satisfied,Probably not,Probably not,No,34699,Slightly uncomfortable,Personal,Non-binary / third gender,34
+18/01/2022 00:00:00,100,0,True,R_6MwDEyGpr59ppBP,Orlando,Los Angeles,Satisfied,Satisfied,Might or might not,Probably not,Yes,73871,Moderately uncomfortable,Personal,Non-binary / third gender,48
+06/09/2022 00:00:00,100,0,True,R_a3pI6Duw2XspPxj,Los Angeles,Orlando,Satisfied,Unsatisfied,Probably not,Definitely yes,Yes,26688,Neither comfortable nor uncomfortable,Personal,Male,23
+24/05/2022 00:00:00,100,0,True,R_0ozKANgaVCbPaWF,Denver,Dallas,Unsatisfied,Satisfied,Probably yes,Might or might not,Yes,86229,Neither comfortable nor uncomfortable,Personal,Male,28
+16/02/2022 00:00:00,100,0,True,R_0IFFBxHOtDltgkl,Seattle,New York,Satisfied,Satisfied,Might or might not,Probably not,Yes,97731,Slightly uncomfortable,Business,Prefer not to say,36
+11/11/2022 00:00:00,100,0,True,R_5zsHT9yYPIxwvtz,Chicago,Seattle,Unsatisfied,Satisfied,Might or might not,Probably not,Yes,39292,Extremely comfortable,Business,Female,32
+14/02/2022 00:00:00,100,0,True,R_aeLLHFY5BBELma9,Seattle,Orlando,Unsatisfied,Satisfied,Might or might not,Definitely not,Yes,44927,Extremely uncomfortable,Business,Prefer not to say,46
+18/03/2022 00:00:00,100,0,True,R_6ujJiQKwxNvGcx7,New York,Orlando,Unsatisfied,Satisfied,Might or might not,Definitely not,No,10545,Moderately comfortable,Personal,Male,
+03/09/2022 00:00:00,100,0,True,R_4NIiIIcsJpRibsx,Orlando,Denver,Unsatisfied,Unsatisfied,Might or might not,Probably not,Yes,13790,Moderately uncomfortable,Business,Female,38
+28/05/2022 00:00:00,100,0,True,R_07M2cpsCdxx40Zv,New York,Orlando,Unsatisfied,Satisfied,Definitely yes,Might or might not,Yes,85698,Moderately uncomfortable,Personal,Female,44
+10/07/2022 00:00:00,100,0,True,R_2lBDkdZOPh6B9B3,Chicago,Chicago,Satisfied,Unsatisfied,Probably yes,Might or might not,Yes,68280,Moderately comfortable,Business,Male,49
+15/12/2022 00:00:00,100,0,True,R_6fetI550zK3fswd,Chicago,New York,Unsatisfied,Satisfied,Definitely yes,Might or might not,No,47134,Neither comfortable nor uncomfortable,Personal,Non-binary / third gender,34
+30/01/2022 00:00:00,100,0,True,R_6sPZGzdzLYQZVkx,Chicago,Denver,Unsatisfied,Unsatisfied,Might or might not,Probably not,No,67322,Moderately uncomfortable,Business,Female,51
+08/04/2022 00:00:00,100,0,True,R_a01WsMcNyE0828Z,Saint Louis,Seattle,Satisfied,Unsatisfied,Definitely yes,Probably yes,Yes,39865,Slightly comfortable,Personal,Female,31
+18/08/2022 00:00:00,100,0,True,R_eX89ed3f0oAaLZ3,Seattle,Orlando,Satisfied,Unsatisfied,Definitely not,Definitely not,Yes,51590,Extremely uncomfortable,Personal,Female,53
+27/04/2022 00:00:00,100,0,True,R_5aIPgffLgoxW5JX,Dallas,Saint Louis,Satisfied,Satisfied,Probably yes,Might or might not,Yes,73923,Slightly uncomfortable,Business,Female,21
+15/09/2022 00:00:00,100,0,True,R_9vncJv6Qrc9yQTj,Denver,Orlando,Unsatisfied,Satisfied,Definitely not,Might or might not,Yes,92035,Extremely uncomfortable,Personal,Non-binary / third gender,40
+16/03/2022 00:00:00,100,0,True,R_aYurvZEf6RmO137,Denver,Seattle,Satisfied,Satisfied,Definitely yes,Probably not,No,92111,Extremely comfortable,Business,Female,30
+27/08/2022 00:00:00,100,0,True,R_9ZTNkMPeHexCbEV,Orlando,Seattle,Satisfied,Satisfied,Probably yes,Definitely yes,No,35594,Extremely comfortable,Business,Non-binary / third gender,34
+15/01/2022 00:00:00,100,0,True,R_9RyHJEyAkWqPRyt,Orlando,New York,Unsatisfied,Unsatisfied,Definitely yes,Probably not,Yes,45036,Extremely uncomfortable,Personal,Female,24
+03/12/2022 00:00:00,100,0,True,R_3mhIemF3EpqVY3j,Saint Louis,Denver,Unsatisfied,Unsatisfied,Probably not,Definitely yes,No,59199,Neither comfortable nor uncomfortable,Personal,Non-binary / third gender,20
+18/11/2022 00:00:00,100,0,True,R_a63OvC2JxU52t25,Denver,Denver,Unsatisfied,Satisfied,Probably yes,Definitely yes,Yes,62071,Moderately comfortable,Personal,Non-binary / third gender,25
+28/07/2022 00:00:00,100,0,True,R_39Kki3zZg3bRFK5,Dallas,Denver,Unsatisfied,Satisfied,Probably yes,Probably not,No,69763,Extremely uncomfortable,Personal,Non-binary / third gender,
+19/02/2022 00:00:00,100,0,True,R_agCawpExync2kjX,New York,Chicago,Unsatisfied,Satisfied,Might or might not,Probably yes,Yes,40486,Moderately comfortable,Business,Prefer not to say,26
+13/09/2022 00:00:00,100,0,True,R_ac3HHdaSE8jKakR,Saint Louis,Seattle,Satisfied,Satisfied,Definitely yes,Definitely yes,Yes,77354,Moderately uncomfortable,Personal,Prefer not to say,26
+12/12/2022 00:00:00,100,0,True,R_6r0ImOmjNw0tdRj,Saint Louis,Saint Louis,Unsatisfied,Satisfied,Probably not,Might or might not,No,70158,Extremely uncomfortable,Personal,Female,30
+15/03/2022 00:00:00,100,0,True,R_6XuvzUSjZ9uhmUl,Orlando,Seattle,Unsatisfied,Satisfied,Might or might not,Probably yes,No,21566,Extremely comfortable,Personal,Male,30
+17/08/2022 00:00:00,100,1,True,R_5C0OnqssCZ3dOmN,Los Angeles,New York,Satisfied,Satisfied,Might or might not,Probably yes,No,71312,Neither comfortable nor uncomfortable,Business,Non-binary / third gender,32
+07/05/2022 00:00:00,100,0,True,R_509eWMmjBMnTD3D,Saint Louis,Dallas,Unsatisfied,Unsatisfied,Probably not,Probably not,Yes,47484,Extremely uncomfortable,Business,Non-binary / third gender,22
+07/09/2022 00:00:00,100,0,True,R_bkkoyLDt2kCaEnP,Orlando,Los Angeles,Unsatisfied,Satisfied,Definitely not,Probably not,No,57682,Slightly comfortable,Business,Female,50
+02/06/2022 00:00:00,100,0,True,R_exJ0QWffweGNHed,Orlando,Denver,Unsatisfied,Unsatisfied,Definitely yes,Definitely not,No,40181,Slightly comfortable,Business,Male,53
+16/01/2022 00:00:00,100,0,True,R_3LhwqGllqavbOEB,Seattle,Chicago,Satisfied,Satisfied,Might or might not,Definitely yes,Yes,18946,Moderately comfortable,Personal,Male,45
+27/02/2022 00:00:00,100,0,True,R_eShav5gAxFVQECh,Orlando,Denver,Satisfied,Satisfied,Might or might not,Definitely yes,No,59996,Extremely uncomfortable,Business,Prefer not to say,48
+29/10/2022 00:00:00,100,0,True,R_7TzPe0NKxgNdNSR,Saint Louis,Orlando,Unsatisfied,Satisfied,Probably not,Probably not,Yes,50382,Neither comfortable nor uncomfortable,Personal,Male,41
+19/03/2022 00:00:00,100,0,True,R_eMeaQQ8llF9hkVL,Dallas,Seattle,Satisfied,Unsatisfied,Probably yes,Definitely not,No,25641,Slightly comfortable,Business,Male,24
+15/08/2022 00:00:00,100,0,True,R_2sHVC5WgWnUasE5,Saint Louis,Denver,Unsatisfied,Satisfied,Probably not,Might or might not,Yes,22919,Moderately comfortable,Business,Female,18
+29/09/2022 00:00:00,100,0,True,R_6QKDfdsDCClrADX,New York,Seattle,Unsatisfied,Satisfied,Probably not,Probably not,Yes,18243,Moderately comfortable,Personal,Non-binary / third gender,53
+19/03/2022 00:00:00,100,0,True,R_0wYdzLz7q1NUMRL,Dallas,Seattle,Unsatisfied,Satisfied,Definitely yes,Definitely not,No,74654,Extremely uncomfortable,Personal,Female,33
+08/01/2022 00:00:00,100,0,True,R_ai7ewneA14ix9sN,Chicago,Chicago,Satisfied,Satisfied,Probably not,Definitely yes,Yes,88610,Moderately uncomfortable,Personal,Non-binary / third gender,18
+14/06/2022 00:00:00,100,0,True,R_3E6mMrdzEvOAMzr,Los Angeles,Denver,Unsatisfied,Satisfied,Definitely yes,Definitely yes,Yes,14103,Neither comfortable nor uncomfortable,Business,Female,19
+16/06/2022 00:00:00,100,0,True,R_0p5lenyC3cgCR4p,Seattle,Denver,Unsatisfied,Unsatisfied,Definitely not,Definitely not,No,23589,Extremely uncomfortable,Business,Female,53
+28/12/2022 00:00:00,100,0,True,R_3xuomFxUcVERxjv,Los Angeles,Orlando,Satisfied,Unsatisfied,Probably yes,Definitely not,Yes,94232,Extremely uncomfortable,Personal,Male,39
+25/03/2022 00:00:00,100,0,True,R_d5Y4ZAuFCKz9beZ,Denver,Denver,Satisfied,Unsatisfied,Definitely not,Might or might not,No,75603,Extremely comfortable,Personal,Non-binary / third gender,23
+19/05/2022 00:00:00,100,0,True,R_6tWvwRw7UMcF2gl,Denver,New York,Satisfied,Unsatisfied,Might or might not,Probably yes,Yes,37441,Moderately uncomfortable,Personal,Prefer not to say,30
+25/11/2022 00:00:00,100,0,True,R_b7xQmoLG8D5Qlo1,New York,Denver,Unsatisfied,Unsatisfied,Definitely yes,Probably yes,No,19614,Slightly comfortable,Personal,Non-binary / third gender,25
+01/12/2022 00:00:00,100,0,True,R_bxySb5W9sKZaCFL,Seattle,Seattle,Satisfied,Unsatisfied,Definitely yes,Definitely not,Yes,96591,Moderately comfortable,Business,Prefer not to say,44
+19/08/2022 00:00:00,100,0,True,R_42g9d3cyliQxz0N,Dallas,Chicago,Satisfied,Satisfied,Definitely yes,Definitely not,Yes,99150,Extremely comfortable,Business,Male,36
+17/12/2022 00:00:00,100,0,True,R_a8KorhjwzWc1u9n,Dallas,Los Angeles,Satisfied,Unsatisfied,Might or might not,Definitely not,Yes,64347,Slightly comfortable,Personal,Non-binary / third gender,45
+29/04/2022 00:00:00,100,0,True,R_eQz7JQ5qEkYAFlr,Denver,Orlando,Unsatisfied,Satisfied,Probably yes,Definitely not,No,12456,Moderately uncomfortable,Business,Male,33
+27/10/2022 00:00:00,100,0,True,R_eEaARFYHQVFt0Nf,New York,Chicago,Satisfied,Unsatisfied,Definitely not,Probably yes,No,35598,Moderately comfortable,Business,Prefer not to say,50
+20/01/2022 00:00:00,100,0,True,R_0GmGuovcaza8QYt,Orlando,Orlando,Unsatisfied,Unsatisfied,Definitely yes,Might or might not,No,50711,Moderately uncomfortable,Personal,Female,36
+11/09/2022 00:00:00,100,0,True,R_9zgH6lh4OLSYM4t,Chicago,New York,Unsatisfied,Unsatisfied,Probably not,Might or might not,No,39486,Neither comfortable nor uncomfortable,Personal,Female,51
+22/01/2022 00:00:00,100,0,True,R_1NW4ZfQZFuoRH1P,Orlando,Saint Louis,Satisfied,Unsatisfied,Might or might not,Definitely not,No,39839,Slightly comfortable,Business,Prefer not to say,46
+03/08/2022 00:00:00,100,0,True,R_b47n4DFQdoJGaxf,Chicago,New York,Unsatisfied,Satisfied,Might or might not,Definitely not,Yes,23405,Slightly comfortable,Personal,Female,50
+25/10/2022 00:00:00,100,0,True,R_aWZvgi6SvsjsuRn,Saint Louis,Los Angeles,Satisfied,Unsatisfied,Might or might not,Definitely not,No,32717,Extremely uncomfortable,Business,Prefer not to say,38
+21/05/2022 00:00:00,100,0,True,R_8AGqyJSmLTwLBNr,Chicago,Dallas,Unsatisfied,Unsatisfied,Might or might not,Definitely yes,Yes,57413,Moderately uncomfortable,Business,Female,52
+05/11/2022 00:00:00,100,0,True,R_8uhsdg8KkftSSod,Dallas,Seattle,Unsatisfied,Satisfied,Probably not,Definitely not,Yes,29198,Slightly uncomfortable,Business,Non-binary / third gender,40
+24/02/2022 00:00:00,100,0,True,R_23G1aLFiLDJuFY9,Dallas,Dallas,Satisfied,Unsatisfied,Definitely yes,Probably yes,No,61953,Moderately comfortable,Personal,Non-binary / third gender,48
+31/05/2022 00:00:00,100,0,True,R_2nxDN2Lwgpp4A4t,New York,Denver,Satisfied,Unsatisfied,Might or might not,Might or might not,No,30024,Extremely comfortable,Personal,Male,24
+14/10/2022 00:00:00,100,0,True,R_24OGu6z5ozZZFOJ,Los Angeles,Orlando,Unsatisfied,Unsatisfied,Might or might not,Might or might not,Yes,42281,Extremely uncomfortable,Business,Female,19
+30/04/2022 00:00:00,100,0,True,R_3I7fKqxoWaJW6vr,Dallas,Seattle,Satisfied,Unsatisfied,Might or might not,Probably not,No,38629,Neither comfortable nor uncomfortable,Business,Male,18
+15/04/2022 00:00:00,100,0,True,R_eydI7lMdHPhXxKR,Los Angeles,Los Angeles,Satisfied,Satisfied,Might or might not,Definitely yes,Yes,12514,Slightly comfortable,Business,Non-binary / third gender,43
+08/09/2022 00:00:00,100,0,True,R_9ud75FRvrpT42ah,Saint Louis,Dallas,Satisfied,Satisfied,Probably yes,Might or might not,No,44009,Extremely comfortable,Personal,Male,30
+20/06/2022 00:00:00,100,0,True,R_bsGPf38ovyuSAId,New York,Denver,Unsatisfied,Unsatisfied,Might or might not,Probably yes,Yes,78510,Extremely comfortable,Business,Female,53
+17/03/2022 00:00:00,100,0,True,R_bpbeTPFAYEM1Stv,Orlando,Seattle,Unsatisfied,Satisfied,Probably yes,Definitely yes,Yes,40950,Neither comfortable nor uncomfortable,Business,Female,30
+01/10/2022 00:00:00,100,0,True,R_3Dxa4WSMhNDwhFP,New York,Saint Louis,Unsatisfied,Satisfied,Probably yes,Might or might not,No,62482,Slightly comfortable,Business,Non-binary / third gender,19
+08/11/2022 00:00:00,100,0,True,R_4IQOd73x6Tbx6JL,Dallas,Orlando,Unsatisfied,Satisfied,Might or might not,Probably not,No,48251,Slightly comfortable,Personal,Non-binary / third gender,32
+25/05/2022 00:00:00,100,0,True,R_cO0iVJihAMpXWAt,Saint Louis,Denver,Unsatisfied,Unsatisfied,Might or might not,Definitely not,Yes,24672,Extremely uncomfortable,Personal,Female,25
+11/09/2022 00:00:00,100,0,True,R_ehMZVh35HgkZ1qd,Saint Louis,Seattle,Satisfied,Unsatisfied,Might or might not,Might or might not,Yes,39432,Extremely uncomfortable,Business,Prefer not to say,25
+10/06/2022 00:00:00,100,0,True,R_ahODLivGs92HZul,Orlando,Dallas,Unsatisfied,Unsatisfied,Probably yes,Probably not,No,67994,Slightly comfortable,Business,Female,37
+06/03/2022 00:00:00,100,0,True,R_1zA39Kgaz6cFdpX,Saint Louis,New York,Unsatisfied,Unsatisfied,Definitely not,Probably not,Yes,27109,Moderately comfortable,Business,Female,51
+09/04/2022 00:00:00,100,0,True,R_6QzFOoZYNKAezxr,Dallas,Seattle,Satisfied,Satisfied,Definitely not,Might or might not,No,31866,Extremely comfortable,Personal,Non-binary / third gender,44
+18/10/2022 00:00:00,100,0,True,R_1FUlNIUmTnwUdM1,Orlando,Denver,Unsatisfied,Satisfied,Might or might not,Probably yes,No,55298,Moderately uncomfortable,Business,Male,47
+02/05/2022 00:00:00,100,0,True,R_7NXuNQja29IEa7X,Saint Louis,Saint Louis,Satisfied,Unsatisfied,Probably not,Probably not,No,90089,Neither comfortable nor uncomfortable,Personal,Prefer not to say,31
+31/05/2022 00:00:00,100,0,True,R_8Gkvo9zQCk1vjvf,Chicago,Dallas,Satisfied,Satisfied,Probably not,Might or might not,Yes,86123,Extremely uncomfortable,Personal,Non-binary / third gender,48
+18/03/2022 00:00:00,100,0,True,R_72OI5yfBue8985D,Seattle,New York,Satisfied,Satisfied,Definitely yes,Definitely not,No,46626,Neither comfortable nor uncomfortable,Personal,Male,40
+09/09/2022 00:00:00,100,0,True,R_bPezmnKOiheXidv,Dallas,Los Angeles,Satisfied,Satisfied,Probably not,Might or might not,Yes,64045,Moderately comfortable,Personal,Non-binary / third gender,40
+05/11/2022 00:00:00,100,0,True,R_dou1LRGdtnEYncN,Chicago,Denver,Unsatisfied,Unsatisfied,Probably not,Definitely yes,Yes,69705,Neither comfortable nor uncomfortable,Business,Prefer not to say,33
+29/01/2022 00:00:00,100,0,True,R_e4IHE7pvfUJ1qHr,New York,Los Angeles,Satisfied,Satisfied,Definitely not,Probably not,No,49837,Slightly comfortable,Personal,Prefer not to say,54
+26/06/2022 00:00:00,100,0,True,R_bJziQ9gPpmBd8ot,Chicago,Saint Louis,Unsatisfied,Satisfied,Might or might not,Might or might not,No,98925,Extremely comfortable,Personal,Female,34
+07/11/2022 00:00:00,100,0,True,R_3IqvbhdZYtPahsF,New York,Saint Louis,Unsatisfied,Satisfied,Probably yes,Definitely not,Yes,59782,Moderately uncomfortable,Personal,Male,45
+21/06/2022 00:00:00,100,0,True,R_8iglr5YlhOegIyF,Orlando,New York,Satisfied,Satisfied,Definitely not,Probably yes,Yes,45683,Extremely uncomfortable,Business,Prefer not to say,47
+15/12/2022 00:00:00,100,0,True,R_6PFcKOeKofssUp7,New York,New York,Unsatisfied,Unsatisfied,Probably not,Might or might not,Yes,10913,Moderately uncomfortable,Business,Non-binary / third gender,19
+19/04/2022 00:00:00,100,0,True,R_bIetETcR1bPfKWp,New York,Chicago,Unsatisfied,Unsatisfied,Definitely not,Definitely yes,Yes,59631,Moderately uncomfortable,Business,Female,43
+27/08/2022 00:00:00,100,0,True,R_cPcUPWBT0vxuaNL,Orlando,Dallas,Satisfied,Unsatisfied,Definitely not,Probably yes,No,15876,Neither comfortable nor uncomfortable,Personal,Female,42
+06/02/2022 00:00:00,100,0,True,R_5pvi77zgADF50Pj,Saint Louis,Chicago,Satisfied,Satisfied,Definitely yes,Definitely not,No,82298,Extremely comfortable,Personal,Male,29
+24/06/2022 00:00:00,100,0,True,R_9uHDbCSPYo3dz8N,Chicago,Saint Louis,Unsatisfied,Satisfied,Might or might not,Probably not,No,74911,Moderately uncomfortable,Personal,Non-binary / third gender,45
+26/08/2022 00:00:00,100,0,True,R_by29Vpyl62KXFHv,Los Angeles,New York,Satisfied,Satisfied,Probably not,Might or might not,No,21464,Moderately comfortable,Business,Female,33
+02/06/2022 00:00:00,100,0,True,R_37ZSU8CWqPqsveR,Seattle,Orlando,Satisfied,Unsatisfied,Definitely not,Might or might not,Yes,62898,Neither comfortable nor uncomfortable,Personal,Male,30
+04/10/2022 00:00:00,100,0,True,R_exqpfUMQJ0bVTVz,New York,New York,Satisfied,Unsatisfied,Might or might not,Probably yes,No,39995,Slightly uncomfortable,Business,Male,35
+30/07/2022 00:00:00,100,0,True,R_b1UFDhlD2s0H6jr,Saint Louis,Denver,Satisfied,Satisfied,Definitely not,Probably yes,No,11889,Extremely uncomfortable,Personal,Prefer not to say,51
+13/12/2022 00:00:00,100,0,True,R_7O6mgNlktq0P0ax,Denver,Dallas,Satisfied,Satisfied,Definitely not,Might or might not,No,29890,Moderately uncomfortable,Personal,Prefer not to say,29
+01/04/2022 00:00:00,100,0,True,R_43dxnrOMlx7bMwZ,Los Angeles,Denver,Satisfied,Unsatisfied,Definitely yes,Definitely yes,Yes,91612,Neither comfortable nor uncomfortable,Business,Prefer not to say,
+28/11/2022 00:00:00,100,0,True,R_dnyxFOSE3Pbyjf7,Seattle,Los Angeles,Unsatisfied,Satisfied,Definitely not,Definitely yes,Yes,14708,Slightly comfortable,Personal,Non-binary / third gender,47
+23/08/2022 00:00:00,100,0,True,R_0TzHuxZArSVFeqF,Seattle,Chicago,Unsatisfied,Satisfied,Definitely not,Definitely yes,Yes,82356,Extremely comfortable,Business,Male,21
+08/09/2022 00:00:00,100,0,True,R_cSJ7sTTJii2Pmyp,New York,Dallas,Satisfied,Unsatisfied,Might or might not,Probably yes,Yes,24468,Slightly uncomfortable,Personal,Female,36
+19/04/2022 00:00:00,100,0,True,R_5dQ2K4YRMfhSuLr,Los Angeles,Chicago,Satisfied,Satisfied,Might or might not,Probably not,No,90420,Neither comfortable nor uncomfortable,Business,Prefer not to say,28
+14/04/2022 00:00:00,100,0,True,R_6FfvYtl4tpVBl4x,Orlando,Dallas,Satisfied,Satisfied,Definitely yes,Definitely not,Yes,16189,Slightly comfortable,Business,Prefer not to say,20
+09/01/2022 00:00:00,100,0,True,R_7TFCPxL3iUJg6mV,Dallas,Saint Louis,Satisfied,Unsatisfied,Probably yes,Probably yes,Yes,39309,Slightly uncomfortable,Business,Male,41
+08/04/2022 00:00:00,100,0,True,R_06dvU3LtiEhjMIl,Chicago,Chicago,Unsatisfied,Satisfied,Might or might not,Definitely not,No,99525,Slightly uncomfortable,Business,Female,46
+05/09/2022 00:00:00,100,0,True,R_agGvvTjMhA2ZerX,Denver,Orlando,Satisfied,Satisfied,Definitely not,Probably not,Yes,59623,Extremely uncomfortable,Personal,Female,47
+14/07/2022 00:00:00,100,0,True,R_9smJqsJMbczaYg5,Dallas,Seattle,Satisfied,Unsatisfied,Definitely yes,Definitely yes,No,25497,Moderately uncomfortable,Personal,Female,33
+25/07/2022 00:00:00,100,0,True,R_4SLzgtLky7WTXLv,Seattle,Seattle,Satisfied,Unsatisfied,Might or might not,Probably yes,Yes,31909,Slightly comfortable,Business,Female,36
+07/03/2022 00:00:00,100,0,True,R_4TvShUDUpFbr9IN,Saint Louis,Chicago,Unsatisfied,Satisfied,Definitely yes,Definitely yes,Yes,11500,Slightly uncomfortable,Business,Female,52
+24/02/2022 00:00:00,100,0,True,R_dmNPbDTI1hTiebj,Saint Louis,Denver,Satisfied,Unsatisfied,Probably not,Definitely not,No,91507,Slightly comfortable,Personal,Male,39
+23/10/2022 00:00:00,100,0,True,R_9ufQAeytaxbSofj,Los Angeles,Orlando,Unsatisfied,Unsatisfied,Might or might not,Probably not,No,42367,Extremely uncomfortable,Personal,Female,36
+29/01/2022 00:00:00,100,0,True,R_d6Xsyjp7kGrs9Mx,Los Angeles,Denver,Unsatisfied,Satisfied,Definitely yes,Probably yes,Yes,79509,Neither comfortable nor uncomfortable,Business,Non-binary / third gender,19
+07/03/2022 00:00:00,100,0,True,R_eVRJvWJDZcYRuh7,Seattle,Chicago,Unsatisfied,Satisfied,Definitely yes,Might or might not,Yes,80674,Moderately comfortable,Personal,Male,39
+29/05/2022 00:00:00,100,0,True,R_09B1R8tN7hX33BX,Chicago,Chicago,Unsatisfied,Unsatisfied,Probably yes,Might or might not,Yes,99693,Neither comfortable nor uncomfortable,Business,Male,27
+10/10/2022 00:00:00,100,0,True,R_098ueprLAhVyNGB,Denver,Dallas,Satisfied,Satisfied,Might or might not,Definitely not,No,24036,Extremely comfortable,Business,Non-binary / third gender,49
+01/12/2022 00:00:00,100,0,True,R_009BXNEvsLdJAP3,Orlando,Saint Louis,Satisfied,Unsatisfied,Definitely not,Definitely yes,Yes,39681,Extremely uncomfortable,Personal,Female,19
+23/04/2022 00:00:00,100,0,True,R_cGCD0h86Pn5J4gZ,Orlando,Orlando,Unsatisfied,Unsatisfied,Definitely not,Definitely not,No,80213,Neither comfortable nor uncomfortable,Personal,Female,20
+05/10/2022 00:00:00,100,0,True,R_6YcqsFHcbfouyoJ,Dallas,Dallas,Satisfied,Unsatisfied,Definitely not,Definitely yes,Yes,66464,Slightly comfortable,Personal,Male,54
+26/09/2022 00:00:00,100,0,True,R_1I9vAbOLuDYFTPD,Orlando,Saint Louis,Satisfied,Unsatisfied,Might or might not,Might or might not,No,31175,Moderately comfortable,Personal,Non-binary / third gender,27
+25/12/2022 00:00:00,100,0,True,R_5w46MBdQGCxlpyJ,Dallas,New York,Unsatisfied,Unsatisfied,Definitely not,Probably not,Yes,77112,Extremely comfortable,Business,Female,45
+29/04/2022 00:00:00,100,0,True,R_enw0Fm7itsT0jPv,Seattle,Seattle,Unsatisfied,Unsatisfied,Probably not,Probably not,No,98116,Moderately uncomfortable,Personal,Male,28
+14/04/2022 00:00:00,100,0,True,R_55YDvhS7jA3Ru97,Los Angeles,Seattle,Satisfied,Unsatisfied,Might or might not,Definitely yes,No,27310,Slightly uncomfortable,Business,Male,54
+15/06/2022 00:00:00,100,0,True,R_86qojjZaEpKgmCF,Orlando,Orlando,Unsatisfied,Unsatisfied,Probably not,Probably not,Yes,62041,Moderately uncomfortable,Business,Male,42
+29/01/2022 00:00:00,100,0,True,R_b8IWTX4XeXRZOK1,Orlando,Chicago,Unsatisfied,Unsatisfied,Definitely not,Probably not,No,41896,Slightly comfortable,Business,Prefer not to say,20
+24/02/2022 00:00:00,100,0,True,R_6nhCt3I0jnp7fuZ,Chicago,Orlando,Unsatisfied,Unsatisfied,Definitely not,Definitely yes,No,54705,Slightly uncomfortable,Business,Female,29
+09/08/2022 00:00:00,100,0,True,R_eV69uf8QK42soyp,Seattle,Denver,Satisfied,Unsatisfied,Definitely yes,Probably not,Yes,68478,Slightly comfortable,Personal,Non-binary / third gender,43
+07/07/2022 00:00:00,100,0,True,R_bqKCEAx1oObpZwp,Orlando,Saint Louis,Satisfied,Satisfied,Might or might not,Probably not,No,65787,Neither comfortable nor uncomfortable,Business,Prefer not to say,25
+30/09/2022 00:00:00,100,0,True,R_1XqrFE0S6MMTYtT,Orlando,Saint Louis,Satisfied,Unsatisfied,Probably yes,Definitely not,No,61030,Moderately comfortable,Personal,Non-binary / third gender,25
+14/05/2022 00:00:00,100,0,True,R_8BSNfg1Dky8ofMp,New York,Chicago,Unsatisfied,Unsatisfied,Might or might not,Definitely yes,No,89607,Moderately comfortable,Personal,Prefer not to say,46
+06/07/2022 00:00:00,100,0,True,R_2uAKUmjzg1Y8dbT,New York,Orlando,Unsatisfied,Unsatisfied,Definitely yes,Definitely not,Yes,48601,Neither comfortable nor uncomfortable,Personal,Female,30
+30/10/2022 00:00:00,100,0,True,R_e8qHd8HxkP3ltfT,Dallas,New York,Satisfied,Unsatisfied,Probably yes,Might or might not,Yes,41487,Extremely comfortable,Business,Female,26
+18/09/2022 00:00:00,100,0,True,R_cHzSejDbfDOJxyt,Los Angeles,Dallas,Satisfied,Unsatisfied,Probably not,Probably yes,No,64720,Moderately comfortable,Business,Male,48
+27/02/2022 00:00:00,100,0,True,R_cXPDwTrr5J2oAg5,Dallas,Orlando,Unsatisfied,Unsatisfied,Probably not,Probably yes,No,20221,Moderately uncomfortable,Personal,Prefer not to say,53
+17/01/2022 00:00:00,100,0,True,R_ba6QW2OcGHYzkod,Dallas,Seattle,Unsatisfied,Satisfied,Definitely yes,Probably yes,Yes,42873,Extremely uncomfortable,Personal,Prefer not to say,38
+19/07/2022 00:00:00,100,0,True,R_0ooGyGcLOedmfyt,Denver,Los Angeles,Satisfied,Unsatisfied,Definitely not,Probably not,No,71098,Extremely comfortable,Business,Female,53
+25/06/2022 00:00:00,100,0,True,R_2hqj3bjnlDF5oKF,New York,Chicago,Unsatisfied,Satisfied,Might or might not,Probably yes,Yes,92278,Slightly uncomfortable,Business,Prefer not to say,53
+27/10/2022 00:00:00,100,0,True,R_3UFV2wgiwQA00hn,New York,Saint Louis,Satisfied,Satisfied,Might or might not,Definitely yes,Yes,56533,Slightly uncomfortable,Business,Male,32
+16/02/2022 00:00:00,100,0,True,R_6DnAn6aRhFHVMvH,Seattle,Seattle,Unsatisfied,Satisfied,Probably not,Definitely yes,No,93717,Moderately uncomfortable,Business,Female,37
+09/08/2022 00:00:00,100,0,True,R_3qIJdocEttCZnal,Orlando,Chicago,Satisfied,Unsatisfied,Definitely yes,Definitely not,No,28982,Moderately comfortable,Personal,Non-binary / third gender,49
+12/01/2022 00:00:00,100,0,True,R_e2JXeGeQJssJDpP,Dallas,Denver,Satisfied,Unsatisfied,Definitely not,Definitely yes,No,94366,Extremely uncomfortable,Business,Female,48
+25/07/2022 00:00:00,100,0,True,R_9t4u2PrAmPzFt65,New York,Seattle,Unsatisfied,Satisfied,Probably yes,Definitely yes,No,84591,Neither comfortable nor uncomfortable,Personal,Prefer not to say,43
+29/10/2022 00:00:00,100,0,True,R_0k4mT21o2ZcT5oF,Saint Louis,Saint Louis,Satisfied,Satisfied,Probably yes,Might or might not,No,59502,Neither comfortable nor uncomfortable,Personal,Prefer not to say,34
+09/08/2022 00:00:00,100,0,True,R_eQmHXI5eWaQXqst,Saint Louis,New York,Satisfied,Satisfied,Probably not,Probably not,Yes,17571,Slightly comfortable,Personal,Prefer not to say,41
+07/06/2022 00:00:00,100,0,True,R_ePSKJR0txL9v8yx,New York,Dallas,Unsatisfied,Unsatisfied,Probably not,Probably not,No,40001,Extremely comfortable,Business,Male,40
+12/01/2022 00:00:00,100,0,True,R_5uNrBwxeelhNtpb,Orlando,Chicago,Unsatisfied,Satisfied,Definitely not,Definitely yes,Yes,60768,Slightly uncomfortable,Business,Male,41
+09/12/2022 00:00:00,100,0,True,R_a5XweimgYh6NvA9,Dallas,New York,Satisfied,Unsatisfied,Probably yes,Probably yes,Yes,48168,Neither comfortable nor uncomfortable,Personal,Prefer not to say,52
+29/05/2022 00:00:00,100,0,True,R_begPqQQjYA98nyd,Saint Louis,New York,Satisfied,Unsatisfied,Probably not,Might or might not,Yes,96099,Slightly uncomfortable,Business,Prefer not to say,34
+11/12/2022 00:00:00,100,0,True,R_eLG7w2TDPfrVVnT,Saint Louis,Seattle,Satisfied,Unsatisfied,Might or might not,Probably not,No,46558,Slightly comfortable,Business,Prefer not to say,22
+16/06/2022 00:00:00,100,0,True,R_07XY7jQB15RnXX7,Dallas,Orlando,Satisfied,Satisfied,Definitely yes,Might or might not,Yes,89711,Slightly comfortable,Business,Non-binary / third gender,29
+05/03/2022 00:00:00,100,0,True,R_2ajaI013qa7nSHX,Seattle,Dallas,Unsatisfied,Satisfied,Definitely not,Definitely yes,No,19028,Extremely comfortable,Personal,Prefer not to say,48
+30/11/2022 00:00:00,100,0,True,R_beyvrwVN72V9gH3,Denver,Los Angeles,Unsatisfied,Satisfied,Definitely not,Definitely yes,No,77990,Extremely uncomfortable,Personal,Female,23
+22/02/2022 00:00:00,100,0,True,R_ebboA6uwemSPAR7,Dallas,Seattle,Unsatisfied,Satisfied,Might or might not,Might or might not,Yes,11361,Extremely uncomfortable,Personal,Female,25
+14/02/2022 00:00:00,100,0,True,R_bOEClqo9HmJwYQt,Los Angeles,Los Angeles,Unsatisfied,Satisfied,Probably not,Definitely not,Yes,48237,Moderately comfortable,Business,Male,32
+17/08/2022 00:00:00,100,0,True,R_73CqSmul33uVLpP,Dallas,Dallas,Satisfied,Satisfied,Probably not,Definitely not,No,52966,Extremely uncomfortable,Personal,Prefer not to say,52
+03/05/2022 00:00:00,100,0,True,R_e4KbIKnXkZrrk7X,New York,Seattle,Satisfied,Satisfied,Definitely not,Definitely yes,Yes,18021,Moderately comfortable,Business,Female,29
+16/04/2022 00:00:00,100,0,True,R_0dpUhxel8IlXBAN,Dallas,New York,Unsatisfied,Satisfied,Definitely yes,Definitely yes,No,42627,Moderately uncomfortable,Business,Prefer not to say,42
+20/05/2022 00:00:00,100,0,True,R_0k5IN4E1eqaCAlv,New York,New York,Satisfied,Unsatisfied,Probably not,Definitely not,No,35332,Moderately uncomfortable,Personal,Male,33
+04/01/2022 00:00:00,100,0,True,R_5Bdvz4GgTTy49AV,Seattle,Dallas,Satisfied,Satisfied,Definitely yes,Definitely yes,No,12971,Neither comfortable nor uncomfortable,Business,Male,34
+07/08/2022 00:00:00,100,0,True,R_5BanPjIuQ08xghv,Saint Louis,Chicago,Unsatisfied,Unsatisfied,Probably not,Definitely not,No,52448,Neither comfortable nor uncomfortable,Personal,Prefer not to say,50
+05/12/2022 00:00:00,100,0,True,R_0BS5xXSNHJNz8tT,Dallas,Seattle,Satisfied,Satisfied,Probably yes,Definitely not,Yes,58513,Neither comfortable nor uncomfortable,Business,Prefer not to say,19
+26/12/2022 00:00:00,100,0,True,R_agRP2GNF8IxzyD3,Chicago,Denver,Unsatisfied,Unsatisfied,Definitely not,Probably yes,Yes,84922,Moderately uncomfortable,Personal,Non-binary / third gender,54
+07/05/2022 00:00:00,100,0,True,R_3k4TAydbnQqcSgZ,Denver,Chicago,Satisfied,Satisfied,Probably yes,Probably not,No,48217,Neither comfortable nor uncomfortable,Personal,Prefer not to say,36
+12/07/2022 00:00:00,100,0,True,R_d4IIB5WZ8xtCZBb,Chicago,Denver,Unsatisfied,Unsatisfied,Might or might not,Definitely not,No,79230,Moderately comfortable,Personal,Prefer not to say,51
+18/02/2022 00:00:00,100,0,True,R_a8G2me2w89pHRt3,Chicago,Chicago,Unsatisfied,Satisfied,Probably yes,Probably yes,Yes,60486,Slightly comfortable,Business,Prefer not to say,43
+20/11/2022 00:00:00,100,0,True,R_a5XGTmnBOOaiMmh,Orlando,Saint Louis,Satisfied,Satisfied,Probably yes,Might or might not,No,59907,Slightly comfortable,Personal,Non-binary / third gender,39
+05/03/2022 00:00:00,100,0,True,R_5jtQ9xHm5BbREUt,Orlando,New York,Satisfied,Unsatisfied,Definitely not,Definitely not,No,99600,Neither comfortable nor uncomfortable,Personal,Male,42
+08/07/2022 00:00:00,100,0,True,R_82qWpS4KAgU5RjL,Seattle,Los Angeles,Unsatisfied,Satisfied,Probably yes,Might or might not,No,66588,Slightly uncomfortable,Personal,Male,51
+16/08/2022 00:00:00,100,0,True,R_40ictHQSnBdaLHL,Saint Louis,Saint Louis,Satisfied,Satisfied,Probably not,Probably not,No,14050,Moderately comfortable,Business,Non-binary / third gender,18
+12/02/2022 00:00:00,100,0,True,R_9n2dciRlINMPIz3,Denver,Denver,Unsatisfied,Unsatisfied,Probably not,Definitely yes,No,79112,Extremely comfortable,Personal,Non-binary / third gender,44
+29/10/2022 00:00:00,100,0,True,R_41tumx7F0fPMqOx,Denver,Orlando,Satisfied,Satisfied,Probably not,Definitely yes,No,27672,Neither comfortable nor uncomfortable,Business,Prefer not to say,51
+07/06/2022 00:00:00,100,0,True,R_4Mf35sB6W1H1bfv,Seattle,Orlando,Unsatisfied,Satisfied,Definitely yes,Might or might not,No,45387,Slightly comfortable,Personal,Prefer not to say,24
+25/10/2022 00:00:00,100,0,True,R_0Vera6bwgirAJVz,New York,New York,Unsatisfied,Unsatisfied,Might or might not,Probably yes,Yes,76660,Slightly comfortable,Personal,Prefer not to say,
+09/04/2022 00:00:00,100,0,True,R_cHm5XQehbywPDgh,Dallas,Dallas,Unsatisfied,Satisfied,Definitely yes,Probably not,No,10747,Moderately comfortable,Business,Male,33
+02/04/2022 00:00:00,100,0,True,R_0GwEmNYF7QasAol,Seattle,Seattle,Unsatisfied,Unsatisfied,Definitely not,Probably not,No,24603,Slightly comfortable,Personal,Male,42
+18/04/2022 00:00:00,100,0,True,R_8nYJeh7mNWHbTbn,New York,Los Angeles,Unsatisfied,Satisfied,Definitely not,Probably yes,Yes,77481,Slightly uncomfortable,Personal,Prefer not to say,34
+13/07/2022 00:00:00,100,0,True,R_8prtkG88TrUTo5T,Dallas,New York,Unsatisfied,Satisfied,Probably yes,Definitely yes,Yes,70810,Neither comfortable nor uncomfortable,Business,Non-binary / third gender,41
+04/03/2022 00:00:00,100,0,True,R_doH1Z71SSHq5oVL,Dallas,Los Angeles,Unsatisfied,Satisfied,Probably not,Might or might not,No,70224,Moderately comfortable,Business,Female,40
+01/06/2022 00:00:00,100,0,True,R_8vuHaMbWzkgEoHH,Orlando,New York,Satisfied,Unsatisfied,Definitely yes,Probably yes,No,16912,Neither comfortable nor uncomfortable,Personal,Female,33
+24/04/2022 00:00:00,100,0,True,R_412RcY0BRmAKynb,Dallas,Denver,Satisfied,Unsatisfied,Definitely not,Might or might not,Yes,55876,Moderately uncomfortable,Business,Prefer not to say,42
+24/03/2022 00:00:00,100,0,True,R_8ew5UkVNwm8Nj81,Chicago,Dallas,Unsatisfied,Satisfied,Definitely not,Probably not,No,83158,Moderately comfortable,Business,Non-binary / third gender,38
+07/09/2022 00:00:00,100,0,True,R_9H8PaAqTub2HflX,Saint Louis,Seattle,Satisfied,Unsatisfied,Might or might not,Probably yes,Yes,38715,Extremely comfortable,Business,Prefer not to say,40
+19/06/2022 00:00:00,100,0,True,R_4YiNUOVEVYkcFb7,Chicago,Seattle,Satisfied,Satisfied,Definitely not,Definitely not,No,73738,Slightly uncomfortable,Personal,Female,29
+09/05/2022 00:00:00,100,0,True,R_eDRPJYQOadul0IR,Los Angeles,Seattle,Unsatisfied,Satisfied,Might or might not,Definitely yes,Yes,14263,Neither comfortable nor uncomfortable,Personal,Prefer not to say,26
+12/09/2022 00:00:00,100,0,True,R_5vc4t3FOcfT2ihf,Los Angeles,Saint Louis,Unsatisfied,Satisfied,Probably not,Might or might not,Yes,38895,Moderately uncomfortable,Personal,Female,35
+26/06/2022 00:00:00,100,0,True,R_71fhu6VSQR5CYiF,Seattle,Orlando,Satisfied,Satisfied,Definitely yes,Probably yes,No,94095,Extremely comfortable,Business,Non-binary / third gender,23
+24/12/2022 00:00:00,100,1,True,R_3fqYM7src4TAWYR,Denver,Chicago,Satisfied,Unsatisfied,Definitely yes,Might or might not,No,82539,Extremely comfortable,Business,Female,40
+17/07/2022 00:00:00,100,0,True,R_ahEkxbtVepJwPit,New York,New York,Satisfied,Satisfied,Might or might not,Definitely not,No,99808,Extremely uncomfortable,Personal,Male,22
+03/01/2022 00:00:00,100,0,True,R_6in5Af7PlEj0j2Z,Seattle,Los Angeles,Satisfied,Unsatisfied,Probably not,Might or might not,Yes,87965,Extremely comfortable,Business,Prefer not to say,52
+28/04/2022 00:00:00,100,0,True,R_bDTbdNIL7ghB0Et,Orlando,Orlando,Unsatisfied,Satisfied,Definitely not,Probably yes,Yes,52026,Extremely comfortable,Personal,Male,39
+29/01/2022 00:00:00,100,0,True,R_0q4515txybszK3X,Los Angeles,Saint Louis,Unsatisfied,Satisfied,Probably yes,Probably yes,No,31050,Extremely comfortable,Business,Male,49
+10/03/2022 00:00:00,100,0,True,R_3UBqGuzQ5uMxDoh,New York,Denver,Satisfied,Satisfied,Might or might not,Might or might not,No,68100,Extremely comfortable,Personal,Male,45
+01/01/2022 00:00:00,100,0,True,R_8HVw6RRMPveGtW5,New York,Denver,Satisfied,Satisfied,Definitely yes,Definitely yes,No,63322,Extremely uncomfortable,Personal,Female,36
+25/06/2022 00:00:00,100,0,True,R_56ZNwB2Y62Q6YE5,Orlando,New York,Unsatisfied,Unsatisfied,Might or might not,Probably not,Yes,92475,Extremely uncomfortable,Business,Male,29
+07/11/2022 00:00:00,100,0,True,R_ey7fas2MX8h6c0B,Chicago,Saint Louis,Unsatisfied,Satisfied,Might or might not,Definitely not,No,63186,Extremely comfortable,Business,Male,27
+04/04/2022 00:00:00,100,0,True,R_3JLAI604NtBOzgF,Chicago,Los Angeles,Satisfied,Satisfied,Probably not,Definitely yes,No,49359,Slightly uncomfortable,Personal,Prefer not to say,20
+18/03/2022 00:00:00,100,0,True,R_bvlcL24Z4AETKPr,Los Angeles,Seattle,Unsatisfied,Unsatisfied,Definitely not,Definitely yes,No,46483,Slightly uncomfortable,Personal,Non-binary / third gender,25
+09/08/2022 00:00:00,100,0,True,R_bxhlqwrbffLxbDf,Seattle,Dallas,Satisfied,Satisfied,Definitely yes,Probably yes,No,66240,Slightly uncomfortable,Business,Male,23
+30/03/2022 00:00:00,100,0,True,R_4IABfPqOycJepSt,Los Angeles,Dallas,Satisfied,Unsatisfied,Definitely yes,Definitely not,No,95768,Moderately comfortable,Personal,Prefer not to say,21
+17/05/2022 00:00:00,100,0,True,R_bqkSwevoPowF3mt,New York,Orlando,Unsatisfied,Satisfied,Probably yes,Probably yes,Yes,68052,Moderately comfortable,Business,Non-binary / third gender,29
+16/02/2022 00:00:00,100,0,True,R_51hWYhMSelAKeFv,Seattle,New York,Unsatisfied,Satisfied,Probably yes,Definitely yes,No,18267,Moderately uncomfortable,Personal,Male,29
+13/12/2022 00:00:00,100,0,True,R_0JQKzTX0cTtgzsN,Seattle,Seattle,Unsatisfied,Satisfied,Definitely yes,Definitely not,No,39873,Extremely comfortable,Personal,Male,31
+23/05/2022 00:00:00,100,0,True,R_9HVLZzs8eKO0unb,Saint Louis,Orlando,Satisfied,Satisfied,Might or might not,Probably yes,No,76708,Slightly uncomfortable,Business,Non-binary / third gender,18
+06/10/2022 00:00:00,100,0,True,R_dcVMTWFXuO66JOR,Dallas,Seattle,Unsatisfied,Unsatisfied,Definitely yes,Definitely yes,No,92837,Slightly comfortable,Personal,Prefer not to say,19
+26/10/2022 00:00:00,100,0,True,R_dmapEJYNpWIBt9X,Denver,Orlando,Unsatisfied,Unsatisfied,Definitely yes,Definitely not,Yes,19477,Extremely uncomfortable,Business,Female,40
+19/01/2022 00:00:00,100,0,True,R_e3BoNIkgU4KaBSZ,Denver,Dallas,Unsatisfied,Satisfied,Probably yes,Probably not,No,59437,Slightly comfortable,Personal,Non-binary / third gender,27
+25/08/2022 00:00:00,100,0,True,R_8ibYEe9x4pcLWTj,Saint Louis,Orlando,Satisfied,Satisfied,Definitely yes,Probably yes,Yes,39995,Moderately comfortable,Business,Female,19
+25/02/2022 00:00:00,100,0,True,R_6tI6ZiY1vcDRI33,Los Angeles,Dallas,Satisfied,Unsatisfied,Definitely not,Definitely yes,No,64034,Extremely uncomfortable,Personal,Female,38
+01/04/2022 00:00:00,100,0,True,R_eg2FNYcScYTFbh3,Orlando,Saint Louis,Unsatisfied,Unsatisfied,Probably not,Definitely not,No,92788,Extremely uncomfortable,Personal,Male,45
+09/02/2022 00:00:00,100,0,True,R_6X7JCI1eyEtD8fr,Chicago,Orlando,Unsatisfied,Unsatisfied,Might or might not,Definitely yes,Yes,41437,Extremely uncomfortable,Personal,Female,30
+16/08/2022 00:00:00,100,0,True,R_cIUpRLovX0za6vX,Denver,Denver,Unsatisfied,Satisfied,Might or might not,Might or might not,Yes,66530,Slightly comfortable,Business,Non-binary / third gender,48
+06/12/2022 00:00:00,100,0,True,R_80715TMr6nJ1Py5,Los Angeles,Denver,Unsatisfied,Satisfied,Definitely yes,Might or might not,No,99752,Slightly uncomfortable,Personal,Female,46
+11/08/2022 00:00:00,100,0,True,R_bgvJCyV5zUfHFHf,Los Angeles,Dallas,Unsatisfied,Unsatisfied,Definitely not,Probably not,Yes,35527,Extremely uncomfortable,Business,Non-binary / third gender,24
+15/06/2022 00:00:00,100,0,True,R_bQULhnNXzrvtaol,Saint Louis,Denver,Satisfied,Satisfied,Might or might not,Definitely yes,Yes,72304,Neither comfortable nor uncomfortable,Business,Prefer not to say,44
+20/11/2022 00:00:00,100,0,True,R_bd5AoYSUxbD06mV,Saint Louis,Saint Louis,Satisfied,Satisfied,Probably not,Might or might not,No,94381,Extremely uncomfortable,Business,Prefer not to say,34
